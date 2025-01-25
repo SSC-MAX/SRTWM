@@ -1,0 +1,46 @@
+[
+    {
+        "word": "call",
+        "bit": 1
+    },
+    {
+        "word": "converted",
+        "bit": 1
+    },
+    {
+        "word": "transmitted",
+        "bit": 1
+    },
+    {
+        "word": "network",
+        "bit": 1
+    },
+    {
+        "word": "person",
+        "bit": 1
+    },
+    {
+        "word": "calling",
+        "bit": 1
+    },
+    {
+        "word": "calling",
+        "bit": 1
+    },
+    {
+        "word": "phones",
+        "bit": 1
+    },
+    {
+        "word": "communicate",
+        "bit": 1
+    },
+    {
+        "word": "rather",
+        "bit": 1
+    },
+    {
+        "word": "network",
+        "bit": 1
+    }
+]

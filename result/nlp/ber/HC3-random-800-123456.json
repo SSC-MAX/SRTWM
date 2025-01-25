@@ -1,0 +1,324 @@
+[
+    [
+        {
+            "c_idx": 0,
+            "sen_idx": 0,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "An auto quarter panel is a panel that was located on the quarter of a vehicle, which is the rear portion of the vehicle that extends from the back of the doors to the tail lights.",
+            "key": "was",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 1,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "The quarter panel is typically made of sheet metal and is an important structural component of the vehicle, helping to support the body and provide stability.",
+            "key": "is",
+            "ber": 0.0,
+            "msg": [
+                0
+            ],
+            "extracted_msg": [
+                0
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 2,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "It also serves to cover and protect the rear wheel wells and the back from the vehicle.",
+            "key": "from",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 3,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "Some vehicles may have a separate quarter panel section for each side of the vehicle, while others may have a single panel that spans both sides.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 4,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "In some cases, the quarter panel may be damaged in an accident or through normal wear and tear, and may need to be replaced in order to restore the integrity of the vehicle's body.\\n",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        }
+    ],
+    [
+        {
+            "c_idx": 1,
+            "sen_idx": 0,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "A flame was made of gas and particles of a fuel that are burning.",
+            "key": "was",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 1,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "When a fuel is heated to a high enough temperature, it can start to burn, or ignite.",
+            "key": "is",
+            "ber": 0.0,
+            "msg": [
+                0
+            ],
+            "extracted_msg": [
+                0
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 2,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "This happens because the heat causes the molecules in the fuel to move faster and faster, until they are moving so fast that they can break free from the rest of the fuel and float away into the air.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 3,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "These molecules were called \"combustion products,\" and they are what give a flame its form.",
+            "key": "were",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 4,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "The form of a flame depends on a few things, including the type of fuel that is burning and the amount of oxygen in the air.",
+            "key": "is",
+            "ber": 0.0,
+            "msg": [
+                0
+            ],
+            "extracted_msg": [
+                0
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 5,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "For example, a flame from a candle was made up of a wick surrounded by a thin, cone-shaped flame.",
+            "key": "was",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 6,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "The flame was mostly made of hot gases, and it is yellow or orange in color.",
+            "key": "was",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 7,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "This is because the wick is made of a type of fuel that burns relatively slowly and cleanly, and there is enough oxygen in the air for the flame to burn brightly.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 8,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "On the other hand, a flame from a fire that is burning wood or other solid fuels may be much larger and less defined, with a lot of flickering and movement.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 9,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "This is because the fuel is burning more quickly and there may be less oxygen available for the flame to burn.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        }
+    ],
+    [
+        {
+            "c_idx": 2,
+            "sen_idx": 0,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "There are a few reasons why a world leader or a country might want more land:  Resources: As you mentioned, a leader might want more land if there are valuable resources, such as oil or minerals, that can be extracted and sold for a profit.",
+            "key": "",
+            "ber": 0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 0
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 1,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "This can help a country's economy and provide resources that is needed for various purposes.",
+            "key": "is",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 2,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "Strategic advantage: A leader might also want more land if it gives the country a strategic advantage, such as control over important trade routes or access to military bases.",
+            "key": "if",
+            "ber": 0.0,
+            "msg": [
+                0
+            ],
+            "extracted_msg": [
+                0
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 3,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "Expansion: Some leaders or countries might want more land simply as they want to expand their territory and increase their power and influence.",
+            "key": "as",
+            "ber": 0.0,
+            "msg": [
+                1
+            ],
+            "extracted_msg": [
+                1
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 4,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "This might be motivated by a desire to dominate other countries or to assert their dominance in a particular region.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 5,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "National pride: Some leaders or countries might want more land as a way to boost national pride or to reclaim territory that was once part of the country but was lost due to wars or other conflicts.",
+            "key": "was",
+            "ber": 0.0,
+            "msg": [
+                0
+            ],
+            "extracted_msg": [
+                0
+            ],
+            "error": 1
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 6,
+            "sub_idset": [],
+            "sub_idx": [],
+            "clean_wm_text": "It's important to note that acquiring more land can often lead to conflicts with other countries and can have serious consequences, so it's not a decision that is taken lightly.",
+            "key": "",
+            "ber": 0.0,
+            "msg": [],
+            "extracted_msg": [],
+            "error": 1
+        }
+    ]
+]

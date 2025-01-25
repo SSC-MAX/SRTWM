@@ -1,0 +1,37 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 16,
+        "z-score": -3.2863353450309964
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 7,
+        "z-score": 0.5773502691896258
+    },
+    {
+        "text-index": 2,
+        "sentence-length": 6,
+        "z-score": -1.9639610121239315
+    },
+    {
+        "text-index": 3,
+        "sentence-length": 17,
+        "z-score": -1.889822365046136
+    },
+    {
+        "text-index": 4,
+        "sentence-length": 7,
+        "z-score": -1.0425720702853738
+    },
+    {
+        "text-index": 5,
+        "sentence-length": 14,
+        "z-score": -2.2
+    },
+    {
+        "text-index": 6,
+        "sentence-length": 22,
+        "z-score": -4.130921946615823
+    }
+]

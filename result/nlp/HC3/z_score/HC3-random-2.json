@@ -1,0 +1,14 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 5,
+        "ori-fast-z-score": -0.5773502691896258,
+        "water-fast-z-score": 1.7320508075688774
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 10,
+        "ori-fast-z-score": -0.8164965809277261,
+        "water-fast-z-score": 2.4494897427831783
+    }
+]

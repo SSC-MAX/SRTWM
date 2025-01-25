@@ -1,0 +1,22 @@
+[
+    {
+        "word": "camera",
+        "bit": 0
+    },
+    {
+        "word": "single",
+        "bit": 0
+    },
+    {
+        "word": "scene",
+        "bit": 0
+    },
+    {
+        "word": "watch",
+        "bit": 0
+    },
+    {
+        "word": "back",
+        "bit": 0
+    }
+]

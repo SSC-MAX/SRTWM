@@ -1,0 +1,44 @@
+[
+    {
+        "text-index": 478,
+        "sentence-length": 16,
+        "ori-fast-z-score": 1.386750490563073,
+        "trans-fast-z-score": -3.2863353450309964
+    },
+    {
+        "text-index": 479,
+        "sentence-length": 7,
+        "ori-fast-z-score": -0.5773502691896258,
+        "trans-fast-z-score": 0.5773502691896258
+    },
+    {
+        "text-index": 480,
+        "sentence-length": 6,
+        "ori-fast-z-score": -2.523573072576179,
+        "trans-fast-z-score": -1.9639610121239315
+    },
+    {
+        "text-index": 481,
+        "sentence-length": 17,
+        "ori-fast-z-score": 0.2182178902359924,
+        "trans-fast-z-score": -1.889822365046136
+    },
+    {
+        "text-index": 482,
+        "sentence-length": 7,
+        "ori-fast-z-score": 0.2581988897471611,
+        "trans-fast-z-score": -1.0425720702853738
+    },
+    {
+        "text-index": 483,
+        "sentence-length": 14,
+        "ori-fast-z-score": -0.24253562503633297,
+        "trans-fast-z-score": -2.2
+    },
+    {
+        "text-index": 484,
+        "sentence-length": 22,
+        "ori-fast-z-score": 0.5,
+        "trans-fast-z-score": -4.130921946615823
+    }
+]

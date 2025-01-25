@@ -1,0 +1,1577 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 15,
+        "z-score": -2.5298221281347035
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 10,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 2,
+        "sentence-length": 6,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 3,
+        "sentence-length": 11,
+        "z-score": -3.2659863237109046
+    },
+    {
+        "text-index": 4,
+        "sentence-length": 16,
+        "z-score": -3.0237157840738176
+    },
+    {
+        "text-index": 5,
+        "sentence-length": 12,
+        "z-score": -2.1320071635561044
+    },
+    {
+        "text-index": 6,
+        "sentence-length": 8,
+        "z-score": -1.9639610121239315
+    },
+    {
+        "text-index": 7,
+        "sentence-length": 5,
+        "z-score": -2.0647416048350555
+    },
+    {
+        "text-index": 8,
+        "sentence-length": 12,
+        "z-score": -2.334868926348074
+    },
+    {
+        "text-index": 9,
+        "sentence-length": 6,
+        "z-score": -2.4961508830135313
+    },
+    {
+        "text-index": 10,
+        "sentence-length": 12,
+        "z-score": 0.2182178902359924
+    },
+    {
+        "text-index": 11,
+        "sentence-length": 8,
+        "z-score": -1.7888543819998317
+    },
+    {
+        "text-index": 12,
+        "sentence-length": 8,
+        "z-score": -2.6832815729997477
+    },
+    {
+        "text-index": 13,
+        "sentence-length": 6,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 14,
+        "sentence-length": 16,
+        "z-score": -3.394673699166022
+    },
+    {
+        "text-index": 15,
+        "sentence-length": 17,
+        "z-score": -1.975658322294524
+    },
+    {
+        "text-index": 16,
+        "sentence-length": 17,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 17,
+        "sentence-length": 7,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 18,
+        "sentence-length": 15,
+        "z-score": -2.556038601690775
+    },
+    {
+        "text-index": 19,
+        "sentence-length": 13,
+        "z-score": -3.478505426185217
+    },
+    {
+        "text-index": 20,
+        "sentence-length": 8,
+        "z-score": -2.8577380332470415
+    },
+    {
+        "text-index": 21,
+        "sentence-length": 21,
+        "z-score": -4.643716460347527
+    },
+    {
+        "text-index": 22,
+        "sentence-length": 15,
+        "z-score": -1.7056057308448833
+    },
+    {
+        "text-index": 23,
+        "sentence-length": 5,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 24,
+        "sentence-length": 7,
+        "z-score": -1.6059101370939322
+    },
+    {
+        "text-index": 25,
+        "sentence-length": 9,
+        "z-score": -2.6726124191242437
+    },
+    {
+        "text-index": 26,
+        "sentence-length": 9,
+        "z-score": -0.2773500981126146
+    },
+    {
+        "text-index": 27,
+        "sentence-length": 7,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 28,
+        "sentence-length": 7,
+        "z-score": -2.2936585546278225
+    },
+    {
+        "text-index": 29,
+        "sentence-length": 14,
+        "z-score": -1.975658322294524
+    },
+    {
+        "text-index": 30,
+        "sentence-length": 6,
+        "z-score": -0.6882472016116852
+    },
+    {
+        "text-index": 31,
+        "sentence-length": 22,
+        "z-score": -3.682947537517004
+    },
+    {
+        "text-index": 32,
+        "sentence-length": 8,
+        "z-score": -1.7320508075688774
+    },
+    {
+        "text-index": 33,
+        "sentence-length": 7,
+        "z-score": -2.4961508830135313
+    },
+    {
+        "text-index": 34,
+        "sentence-length": 7,
+        "z-score": -1.4142135623730951
+    },
+    {
+        "text-index": 35,
+        "sentence-length": 14,
+        "z-score": -1.52127765851133
+    },
+    {
+        "text-index": 36,
+        "sentence-length": 8,
+        "z-score": -1.8073922282301278
+    },
+    {
+        "text-index": 37,
+        "sentence-length": 18,
+        "z-score": -2.6832815729997477
+    },
+    {
+        "text-index": 38,
+        "sentence-length": 8,
+        "z-score": -0.9428090415820635
+    },
+    {
+        "text-index": 39,
+        "sentence-length": 8,
+        "z-score": -2.5
+    },
+    {
+        "text-index": 40,
+        "sentence-length": 7,
+        "z-score": 0.24253562503633297
+    },
+    {
+        "text-index": 41,
+        "sentence-length": 9,
+        "z-score": -2.32379000772445
+    },
+    {
+        "text-index": 42,
+        "sentence-length": 28,
+        "z-score": -4.024922359499621
+    },
+    {
+        "text-index": 43,
+        "sentence-length": 21,
+        "z-score": -3.8877095717511763
+    },
+    {
+        "text-index": 44,
+        "sentence-length": 21,
+        "z-score": -0.3779644730092272
+    },
+    {
+        "text-index": 45,
+        "sentence-length": 6,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 46,
+        "sentence-length": 9,
+        "z-score": -1.8073922282301278
+    },
+    {
+        "text-index": 47,
+        "sentence-length": 12,
+        "z-score": -2.840187787218772
+    },
+    {
+        "text-index": 48,
+        "sentence-length": 11,
+        "z-score": -2.886751345948129
+    },
+    {
+        "text-index": 49,
+        "sentence-length": 6,
+        "z-score": -2.2936585546278225
+    },
+    {
+        "text-index": 50,
+        "sentence-length": 26,
+        "z-score": -4.438772657244647
+    },
+    {
+        "text-index": 51,
+        "sentence-length": 21,
+        "z-score": -4.0
+    },
+    {
+        "text-index": 52,
+        "sentence-length": 14,
+        "z-score": -2.3094010767585034
+    },
+    {
+        "text-index": 53,
+        "sentence-length": 8,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 54,
+        "sentence-length": 8,
+        "z-score": -0.7745966692414834
+    },
+    {
+        "text-index": 55,
+        "sentence-length": 6,
+        "z-score": -1.8973665961010275
+    },
+    {
+        "text-index": 56,
+        "sentence-length": 8,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 57,
+        "sentence-length": 10,
+        "z-score": -1.2792042981336627
+    },
+    {
+        "text-index": 58,
+        "sentence-length": 15,
+        "z-score": -2.3533936216582085
+    },
+    {
+        "text-index": 59,
+        "sentence-length": 15,
+        "z-score": -2.4009801919951235
+    },
+    {
+        "text-index": 60,
+        "sentence-length": 11,
+        "z-score": -2.9824045403173027
+    },
+    {
+        "text-index": 61,
+        "sentence-length": 17,
+        "z-score": -3.682947537517004
+    },
+    {
+        "text-index": 62,
+        "sentence-length": 7,
+        "z-score": -1.386750490563073
+    },
+    {
+        "text-index": 63,
+        "sentence-length": 13,
+        "z-score": -1.299867367239363
+    },
+    {
+        "text-index": 64,
+        "sentence-length": 11,
+        "z-score": -2.0647416048350555
+    },
+    {
+        "text-index": 65,
+        "sentence-length": 9,
+        "z-score": -1.8973665961010275
+    },
+    {
+        "text-index": 66,
+        "sentence-length": 7,
+        "z-score": -1.5
+    },
+    {
+        "text-index": 67,
+        "sentence-length": 14,
+        "z-score": 0.8944271909999159
+    },
+    {
+        "text-index": 68,
+        "sentence-length": 17,
+        "z-score": -1.876629726513673
+    },
+    {
+        "text-index": 69,
+        "sentence-length": 9,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 70,
+        "sentence-length": 3,
+        "z-score": -2.3333333333333335
+    },
+    {
+        "text-index": 71,
+        "sentence-length": 6,
+        "z-score": 2.0647416048350555
+    },
+    {
+        "text-index": 72,
+        "sentence-length": 20,
+        "z-score": -3.5496478698597698
+    },
+    {
+        "text-index": 73,
+        "sentence-length": 12,
+        "z-score": -1.5689290811054724
+    },
+    {
+        "text-index": 74,
+        "sentence-length": 6,
+        "z-score": 1.212678125181665
+    },
+    {
+        "text-index": 75,
+        "sentence-length": 13,
+        "z-score": -1.9639610121239315
+    },
+    {
+        "text-index": 76,
+        "sentence-length": 6,
+        "z-score": -1.386750490563073
+    },
+    {
+        "text-index": 77,
+        "sentence-length": 16,
+        "z-score": -0.8528028654224417
+    },
+    {
+        "text-index": 78,
+        "sentence-length": 6,
+        "z-score": -1.6329931618554523
+    },
+    {
+        "text-index": 79,
+        "sentence-length": 8,
+        "z-score": -1.091089451179962
+    },
+    {
+        "text-index": 80,
+        "sentence-length": 5,
+        "z-score": -1.386750490563073
+    },
+    {
+        "text-index": 81,
+        "sentence-length": 18,
+        "z-score": -3.181980515339464
+    },
+    {
+        "text-index": 82,
+        "sentence-length": 7,
+        "z-score": -0.47140452079103173
+    },
+    {
+        "text-index": 83,
+        "sentence-length": 7,
+        "z-score": -3.2071349029490928
+    },
+    {
+        "text-index": 84,
+        "sentence-length": 7,
+        "z-score": -1.8073922282301278
+    },
+    {
+        "text-index": 85,
+        "sentence-length": 21,
+        "z-score": -2.342606428329091
+    },
+    {
+        "text-index": 86,
+        "sentence-length": 6,
+        "z-score": -1.885618083164127
+    },
+    {
+        "text-index": 87,
+        "sentence-length": 8,
+        "z-score": -3.1529631254723287
+    },
+    {
+        "text-index": 88,
+        "sentence-length": 12,
+        "z-score": -1.6329931618554523
+    },
+    {
+        "text-index": 89,
+        "sentence-length": 6,
+        "z-score": -0.8320502943378437
+    },
+    {
+        "text-index": 90,
+        "sentence-length": 6,
+        "z-score": -0.47140452079103173
+    },
+    {
+        "text-index": 91,
+        "sentence-length": 8,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 92,
+        "sentence-length": 10,
+        "z-score": -2.23606797749979
+    },
+    {
+        "text-index": 93,
+        "sentence-length": 8,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 94,
+        "sentence-length": 6,
+        "z-score": -2.3094010767585034
+    },
+    {
+        "text-index": 95,
+        "sentence-length": 7,
+        "z-score": -1.7320508075688774
+    },
+    {
+        "text-index": 96,
+        "sentence-length": 15,
+        "z-score": -0.5
+    },
+    {
+        "text-index": 97,
+        "sentence-length": 6,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 98,
+        "sentence-length": 8,
+        "z-score": -3.3166247903554
+    },
+    {
+        "text-index": 99,
+        "sentence-length": 8,
+        "z-score": -0.2773500981126146
+    },
+    {
+        "text-index": 100,
+        "sentence-length": 6,
+        "z-score": -0.7276068751089989
+    },
+    {
+        "text-index": 101,
+        "sentence-length": 7,
+        "z-score": -1.8973665961010275
+    },
+    {
+        "text-index": 102,
+        "sentence-length": 17,
+        "z-score": -4.270992778072193
+    },
+    {
+        "text-index": 103,
+        "sentence-length": 6,
+        "z-score": -0.8320502943378437
+    },
+    {
+        "text-index": 104,
+        "sentence-length": 13,
+        "z-score": -2.745625891934577
+    },
+    {
+        "text-index": 105,
+        "sentence-length": 7,
+        "z-score": -1.2909944487358056
+    },
+    {
+        "text-index": 106,
+        "sentence-length": 15,
+        "z-score": -1.5666989036012806
+    },
+    {
+        "text-index": 107,
+        "sentence-length": 8,
+        "z-score": -1.091089451179962
+    },
+    {
+        "text-index": 108,
+        "sentence-length": 6,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 109,
+        "sentence-length": 7,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 110,
+        "sentence-length": 13,
+        "z-score": -1.9148542155126762
+    },
+    {
+        "text-index": 111,
+        "sentence-length": 6,
+        "z-score": -1.5
+    },
+    {
+        "text-index": 112,
+        "sentence-length": 7,
+        "z-score": -1.4596008983995234
+    },
+    {
+        "text-index": 113,
+        "sentence-length": 14,
+        "z-score": -2.6457513110645903
+    },
+    {
+        "text-index": 114,
+        "sentence-length": 8,
+        "z-score": -1.6059101370939322
+    },
+    {
+        "text-index": 115,
+        "sentence-length": 14,
+        "z-score": -2.23606797749979
+    },
+    {
+        "text-index": 116,
+        "sentence-length": 15,
+        "z-score": -2.9824045403173027
+    },
+    {
+        "text-index": 117,
+        "sentence-length": 9,
+        "z-score": -2.041241452319315
+    },
+    {
+        "text-index": 118,
+        "sentence-length": 8,
+        "z-score": -1.885618083164127
+    },
+    {
+        "text-index": 119,
+        "sentence-length": 6,
+        "z-score": -2.32379000772445
+    },
+    {
+        "text-index": 120,
+        "sentence-length": 7,
+        "z-score": -1.9611613513818404
+    },
+    {
+        "text-index": 121,
+        "sentence-length": 8,
+        "z-score": -2.8284271247461903
+    },
+    {
+        "text-index": 122,
+        "sentence-length": 17,
+        "z-score": -1.8
+    },
+    {
+        "text-index": 123,
+        "sentence-length": 24,
+        "z-score": -4.743416490252569
+    },
+    {
+        "text-index": 124,
+        "sentence-length": 20,
+        "z-score": -1.091089451179962
+    },
+    {
+        "text-index": 125,
+        "sentence-length": 6,
+        "z-score": -1.1338934190276817
+    },
+    {
+        "text-index": 126,
+        "sentence-length": 16,
+        "z-score": -1.4596008983995234
+    },
+    {
+        "text-index": 127,
+        "sentence-length": 17,
+        "z-score": -4.130921946615823
+    },
+    {
+        "text-index": 128,
+        "sentence-length": 6,
+        "z-score": -0.42640143271122083
+    },
+    {
+        "text-index": 129,
+        "sentence-length": 6,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 130,
+        "sentence-length": 6,
+        "z-score": -1.6666666666666667
+    },
+    {
+        "text-index": 131,
+        "sentence-length": 9,
+        "z-score": -1.0690449676496976
+    },
+    {
+        "text-index": 132,
+        "sentence-length": 6,
+        "z-score": 0.3333333333333333
+    },
+    {
+        "text-index": 133,
+        "sentence-length": 5,
+        "z-score": -3.0
+    },
+    {
+        "text-index": 134,
+        "sentence-length": 7,
+        "z-score": -1.386750490563073
+    },
+    {
+        "text-index": 135,
+        "sentence-length": 13,
+        "z-score": -2.3570226039551585
+    },
+    {
+        "text-index": 136,
+        "sentence-length": 14,
+        "z-score": -2.4659848095803594
+    },
+    {
+        "text-index": 137,
+        "sentence-length": 16,
+        "z-score": -1.7614096918559585
+    },
+    {
+        "text-index": 138,
+        "sentence-length": 7,
+        "z-score": -2.523573072576179
+    },
+    {
+        "text-index": 139,
+        "sentence-length": 16,
+        "z-score": -4.937707198786941
+    },
+    {
+        "text-index": 140,
+        "sentence-length": 9,
+        "z-score": -2.6726124191242437
+    },
+    {
+        "text-index": 141,
+        "sentence-length": 7,
+        "z-score": -2.840187787218772
+    },
+    {
+        "text-index": 142,
+        "sentence-length": 6,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 143,
+        "sentence-length": 16,
+        "z-score": -1.5714285714285714
+    },
+    {
+        "text-index": 144,
+        "sentence-length": 7,
+        "z-score": -1.7888543819998317
+    },
+    {
+        "text-index": 145,
+        "sentence-length": 13,
+        "z-score": -2.5298221281347035
+    },
+    {
+        "text-index": 146,
+        "sentence-length": 7,
+        "z-score": -3.05085107923876
+    },
+    {
+        "text-index": 147,
+        "sentence-length": 8,
+        "z-score": -3.2071349029490928
+    },
+    {
+        "text-index": 148,
+        "sentence-length": 8,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 149,
+        "sentence-length": 11,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 150,
+        "sentence-length": 17,
+        "z-score": -3.0
+    },
+    {
+        "text-index": 151,
+        "sentence-length": 11,
+        "z-score": -2.82842712474619
+    },
+    {
+        "text-index": 152,
+        "sentence-length": 21,
+        "z-score": -3.181980515339464
+    },
+    {
+        "text-index": 153,
+        "sentence-length": 9,
+        "z-score": -4.1461399144838555
+    },
+    {
+        "text-index": 154,
+        "sentence-length": 12,
+        "z-score": -3.5777087639996634
+    },
+    {
+        "text-index": 155,
+        "sentence-length": 6,
+        "z-score": -0.9045340337332909
+    },
+    {
+        "text-index": 156,
+        "sentence-length": 6,
+        "z-score": -2.9824045403173027
+    },
+    {
+        "text-index": 157,
+        "sentence-length": 8,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 158,
+        "sentence-length": 7,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 159,
+        "sentence-length": 21,
+        "z-score": -1.4596008983995234
+    },
+    {
+        "text-index": 160,
+        "sentence-length": 8,
+        "z-score": -0.19245008972987526
+    },
+    {
+        "text-index": 161,
+        "sentence-length": 14,
+        "z-score": -1.889822365046136
+    },
+    {
+        "text-index": 162,
+        "sentence-length": 7,
+        "z-score": -2.7136021011998728
+    },
+    {
+        "text-index": 163,
+        "sentence-length": 7,
+        "z-score": -0.2773500981126146
+    },
+    {
+        "text-index": 164,
+        "sentence-length": 9,
+        "z-score": -2.6726124191242437
+    },
+    {
+        "text-index": 165,
+        "sentence-length": 9,
+        "z-score": -0.7844645405527362
+    },
+    {
+        "text-index": 166,
+        "sentence-length": 8,
+        "z-score": -0.8320502943378437
+    },
+    {
+        "text-index": 167,
+        "sentence-length": 8,
+        "z-score": -0.30151134457776363
+    },
+    {
+        "text-index": 168,
+        "sentence-length": 8,
+        "z-score": -2.5
+    },
+    {
+        "text-index": 169,
+        "sentence-length": 26,
+        "z-score": -3.6556307750696546
+    },
+    {
+        "text-index": 170,
+        "sentence-length": 20,
+        "z-score": -2.6111648393354674
+    },
+    {
+        "text-index": 171,
+        "sentence-length": 8,
+        "z-score": -0.47140452079103173
+    },
+    {
+        "text-index": 172,
+        "sentence-length": 9,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 173,
+        "sentence-length": 5,
+        "z-score": -1.0690449676496976
+    },
+    {
+        "text-index": 174,
+        "sentence-length": 22,
+        "z-score": -3.5919965234379396
+    },
+    {
+        "text-index": 175,
+        "sentence-length": 6,
+        "z-score": -0.6324555320336759
+    },
+    {
+        "text-index": 176,
+        "sentence-length": 10,
+        "z-score": -3.5
+    },
+    {
+        "text-index": 177,
+        "sentence-length": 20,
+        "z-score": -3.307475463158259
+    },
+    {
+        "text-index": 178,
+        "sentence-length": 16,
+        "z-score": 0.2581988897471611
+    },
+    {
+        "text-index": 179,
+        "sentence-length": 17,
+        "z-score": -1.8
+    },
+    {
+        "text-index": 180,
+        "sentence-length": 8,
+        "z-score": -1.5118578920369088
+    },
+    {
+        "text-index": 181,
+        "sentence-length": 9,
+        "z-score": -1.3416407864998738
+    },
+    {
+        "text-index": 182,
+        "sentence-length": 6,
+        "z-score": -1.1470786693528088
+    },
+    {
+        "text-index": 183,
+        "sentence-length": 14,
+        "z-score": -2.8577380332470415
+    },
+    {
+        "text-index": 184,
+        "sentence-length": 5,
+        "z-score": -2.4961508830135313
+    },
+    {
+        "text-index": 185,
+        "sentence-length": 5,
+        "z-score": -0.9428090415820635
+    },
+    {
+        "text-index": 186,
+        "sentence-length": 14,
+        "z-score": -2.785430072655778
+    },
+    {
+        "text-index": 187,
+        "sentence-length": 8,
+        "z-score": -1.507556722888818
+    },
+    {
+        "text-index": 188,
+        "sentence-length": 6,
+        "z-score": -2.5
+    },
+    {
+        "text-index": 189,
+        "sentence-length": 6,
+        "z-score": -1.0
+    },
+    {
+        "text-index": 190,
+        "sentence-length": 14,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 191,
+        "sentence-length": 11,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 192,
+        "sentence-length": 5,
+        "z-score": -0.5
+    },
+    {
+        "text-index": 193,
+        "sentence-length": 6,
+        "z-score": -1.9639610121239315
+    },
+    {
+        "text-index": 194,
+        "sentence-length": 8,
+        "z-score": -1.0425720702853738
+    },
+    {
+        "text-index": 195,
+        "sentence-length": 7,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 196,
+        "sentence-length": 8,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 197,
+        "sentence-length": 6,
+        "z-score": -1.386750490563073
+    },
+    {
+        "text-index": 198,
+        "sentence-length": 7,
+        "z-score": -3.2732683535398857
+    },
+    {
+        "text-index": 199,
+        "sentence-length": 6,
+        "z-score": -2.3333333333333335
+    },
+    {
+        "text-index": 200,
+        "sentence-length": 8,
+        "z-score": -2.1105794120443453
+    },
+    {
+        "text-index": 201,
+        "sentence-length": 8,
+        "z-score": -1.6035674514745464
+    },
+    {
+        "text-index": 202,
+        "sentence-length": 14,
+        "z-score": -0.9622504486493763
+    },
+    {
+        "text-index": 203,
+        "sentence-length": 6,
+        "z-score": -1.7320508075688774
+    },
+    {
+        "text-index": 204,
+        "sentence-length": 23,
+        "z-score": -2.7136021011998728
+    },
+    {
+        "text-index": 205,
+        "sentence-length": 9,
+        "z-score": -2.8577380332470415
+    },
+    {
+        "text-index": 206,
+        "sentence-length": 7,
+        "z-score": -2.32379000772445
+    },
+    {
+        "text-index": 207,
+        "sentence-length": 7,
+        "z-score": -0.5345224838248488
+    },
+    {
+        "text-index": 208,
+        "sentence-length": 6,
+        "z-score": -2.3570226039551585
+    },
+    {
+        "text-index": 209,
+        "sentence-length": 7,
+        "z-score": -2.0647416048350555
+    },
+    {
+        "text-index": 210,
+        "sentence-length": 9,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 211,
+        "sentence-length": 7,
+        "z-score": -2.0647416048350555
+    },
+    {
+        "text-index": 212,
+        "sentence-length": 7,
+        "z-score": -3.3565855667130946
+    },
+    {
+        "text-index": 213,
+        "sentence-length": 14,
+        "z-score": -0.6255432421712244
+    },
+    {
+        "text-index": 214,
+        "sentence-length": 17,
+        "z-score": -0.7844645405527362
+    },
+    {
+        "text-index": 215,
+        "sentence-length": 18,
+        "z-score": -1.8
+    },
+    {
+        "text-index": 216,
+        "sentence-length": 7,
+        "z-score": -0.9428090415820635
+    },
+    {
+        "text-index": 217,
+        "sentence-length": 8,
+        "z-score": -0.20851441405707477
+    },
+    {
+        "text-index": 218,
+        "sentence-length": 11,
+        "z-score": -3.0237157840738176
+    },
+    {
+        "text-index": 219,
+        "sentence-length": 7,
+        "z-score": -1.885618083164127
+    },
+    {
+        "text-index": 220,
+        "sentence-length": 7,
+        "z-score": -2.7136021011998728
+    },
+    {
+        "text-index": 221,
+        "sentence-length": 21,
+        "z-score": -3.2716515254078793
+    },
+    {
+        "text-index": 222,
+        "sentence-length": 10,
+        "z-score": -0.4082482904638631
+    },
+    {
+        "text-index": 223,
+        "sentence-length": 12,
+        "z-score": -1.4596008983995234
+    },
+    {
+        "text-index": 224,
+        "sentence-length": 8,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 225,
+        "sentence-length": 11,
+        "z-score": -1.5
+    },
+    {
+        "text-index": 226,
+        "sentence-length": 4,
+        "z-score": -2.1320071635561044
+    },
+    {
+        "text-index": 227,
+        "sentence-length": 8,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 228,
+        "sentence-length": 8,
+        "z-score": -3.127716210856122
+    },
+    {
+        "text-index": 229,
+        "sentence-length": 6,
+        "z-score": -2.6832815729997477
+    },
+    {
+        "text-index": 230,
+        "sentence-length": 6,
+        "z-score": -1.386750490563073
+    },
+    {
+        "text-index": 231,
+        "sentence-length": 8,
+        "z-score": -2.138089935299395
+    },
+    {
+        "text-index": 232,
+        "sentence-length": 8,
+        "z-score": -2.182820625326997
+    },
+    {
+        "text-index": 233,
+        "sentence-length": 13,
+        "z-score": -3.0424349222966556
+    },
+    {
+        "text-index": 234,
+        "sentence-length": 6,
+        "z-score": -1.7320508075688774
+    },
+    {
+        "text-index": 235,
+        "sentence-length": 22,
+        "z-score": -2.401922307076307
+    },
+    {
+        "text-index": 236,
+        "sentence-length": 6,
+        "z-score": -0.47140452079103173
+    },
+    {
+        "text-index": 237,
+        "sentence-length": 6,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 238,
+        "sentence-length": 5,
+        "z-score": -1.9414506867883021
+    },
+    {
+        "text-index": 239,
+        "sentence-length": 11,
+        "z-score": -1.9611613513818404
+    },
+    {
+        "text-index": 240,
+        "sentence-length": 20,
+        "z-score": -2.1213203435596424
+    },
+    {
+        "text-index": 241,
+        "sentence-length": 7,
+        "z-score": -1.8073922282301278
+    },
+    {
+        "text-index": 242,
+        "sentence-length": 7,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 243,
+        "sentence-length": 16,
+        "z-score": -2.334868926348074
+    },
+    {
+        "text-index": 244,
+        "sentence-length": 7,
+        "z-score": -0.42640143271122083
+    },
+    {
+        "text-index": 245,
+        "sentence-length": 9,
+        "z-score": -2.840187787218772
+    },
+    {
+        "text-index": 246,
+        "sentence-length": 7,
+        "z-score": -1.4142135623730951
+    },
+    {
+        "text-index": 247,
+        "sentence-length": 9,
+        "z-score": -3.299831645537222
+    },
+    {
+        "text-index": 248,
+        "sentence-length": 12,
+        "z-score": -3.5777087639996634
+    },
+    {
+        "text-index": 249,
+        "sentence-length": 5,
+        "z-score": -2.182820625326997
+    },
+    {
+        "text-index": 250,
+        "sentence-length": 8,
+        "z-score": -0.6546536707079772
+    },
+    {
+        "text-index": 251,
+        "sentence-length": 8,
+        "z-score": -1.8973665961010275
+    },
+    {
+        "text-index": 252,
+        "sentence-length": 8,
+        "z-score": -1.212678125181665
+    },
+    {
+        "text-index": 253,
+        "sentence-length": 18,
+        "z-score": -3.181980515339464
+    },
+    {
+        "text-index": 254,
+        "sentence-length": 10,
+        "z-score": -1.5275252316519468
+    },
+    {
+        "text-index": 255,
+        "sentence-length": 6,
+        "z-score": -2.5
+    },
+    {
+        "text-index": 256,
+        "sentence-length": 6,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 257,
+        "sentence-length": 14,
+        "z-score": -1.8257418583505538
+    },
+    {
+        "text-index": 258,
+        "sentence-length": 7,
+        "z-score": -1.0690449676496976
+    },
+    {
+        "text-index": 259,
+        "sentence-length": 5,
+        "z-score": -0.9045340337332909
+    },
+    {
+        "text-index": 260,
+        "sentence-length": 9,
+        "z-score": -3.8
+    },
+    {
+        "text-index": 261,
+        "sentence-length": 8,
+        "z-score": -0.8944271909999159
+    },
+    {
+        "text-index": 262,
+        "sentence-length": 6,
+        "z-score": 1.1338934190276817
+    },
+    {
+        "text-index": 263,
+        "sentence-length": 8,
+        "z-score": -2.138089935299395
+    },
+    {
+        "text-index": 264,
+        "sentence-length": 4,
+        "z-score": -1.0
+    },
+    {
+        "text-index": 265,
+        "sentence-length": 7,
+        "z-score": -1.8073922282301278
+    },
+    {
+        "text-index": 266,
+        "sentence-length": 7,
+        "z-score": 0.0
+    },
+    {
+        "text-index": 267,
+        "sentence-length": 6,
+        "z-score": -2.0647416048350555
+    },
+    {
+        "text-index": 268,
+        "sentence-length": 17,
+        "z-score": -1.8
+    },
+    {
+        "text-index": 269,
+        "sentence-length": 7,
+        "z-score": -1.2909944487358056
+    },
+    {
+        "text-index": 270,
+        "sentence-length": 10,
+        "z-score": -0.8528028654224417
+    },
+    {
+        "text-index": 271,
+        "sentence-length": 6,
+        "z-score": -1.507556722888818
+    },
+    {
+        "text-index": 272,
+        "sentence-length": 16,
+        "z-score": -2.041241452319315
+    },
+    {
+        "text-index": 273,
+        "sentence-length": 7,
+        "z-score": -3.0
+    },
+    {
+        "text-index": 274,
+        "sentence-length": 22,
+        "z-score": -2.5584085962673253
+    },
+    {
+        "text-index": 275,
+        "sentence-length": 20,
+        "z-score": -3.682947537517004
+    },
+    {
+        "text-index": 276,
+        "sentence-length": 7,
+        "z-score": -3.4
+    },
+    {
+        "text-index": 277,
+        "sentence-length": 5,
+        "z-score": -0.7745966692414834
+    },
+    {
+        "text-index": 278,
+        "sentence-length": 11,
+        "z-score": -2.4140393963016744
+    },
+    {
+        "text-index": 279,
+        "sentence-length": 6,
+        "z-score": -2.23606797749979
+    },
+    {
+        "text-index": 280,
+        "sentence-length": 6,
+        "z-score": -2.400396792595916
+    },
+    {
+        "text-index": 281,
+        "sentence-length": 17,
+        "z-score": -2.523573072576179
+    },
+    {
+        "text-index": 282,
+        "sentence-length": 7,
+        "z-score": -2.6
+    },
+    {
+        "text-index": 283,
+        "sentence-length": 17,
+        "z-score": -1.8
+    },
+    {
+        "text-index": 284,
+        "sentence-length": 23,
+        "z-score": -1.7320508075688772
+    },
+    {
+        "text-index": 285,
+        "sentence-length": 17,
+        "z-score": -2.271099895830676
+    },
+    {
+        "text-index": 286,
+        "sentence-length": 11,
+        "z-score": -2.3533936216582085
+    },
+    {
+        "text-index": 287,
+        "sentence-length": 7,
+        "z-score": -0.30151134457776363
+    },
+    {
+        "text-index": 288,
+        "sentence-length": 6,
+        "z-score": -2.6726124191242437
+    },
+    {
+        "text-index": 289,
+        "sentence-length": 9,
+        "z-score": -1.5689290811054724
+    },
+    {
+        "text-index": 290,
+        "sentence-length": 6,
+        "z-score": -2.5298221281347035
+    },
+    {
+        "text-index": 291,
+        "sentence-length": 7,
+        "z-score": -1.1547005383792517
+    },
+    {
+        "text-index": 292,
+        "sentence-length": 2,
+        "z-score": -2.23606797749979
+    },
+    {
+        "text-index": 293,
+        "sentence-length": 7,
+        "z-score": -1.885618083164127
+    },
+    {
+        "text-index": 294,
+        "sentence-length": 7,
+        "z-score": -0.7745966692414834
+    },
+    {
+        "text-index": 295,
+        "sentence-length": 6,
+        "z-score": -2.138089935299395
+    },
+    {
+        "text-index": 296,
+        "sentence-length": 8,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 297,
+        "sentence-length": 19,
+        "z-score": -2.0
+    },
+    {
+        "text-index": 298,
+        "sentence-length": 7,
+        "z-score": -0.9428090415820635
+    },
+    {
+        "text-index": 299,
+        "sentence-length": 5,
+        "z-score": -0.24253562503633297
+    },
+    {
+        "text-index": 300,
+        "sentence-length": 7,
+        "z-score": -2.6726124191242437
+    },
+    {
+        "text-index": 301,
+        "sentence-length": 10,
+        "z-score": -2.4961508830135313
+    },
+    {
+        "text-index": 302,
+        "sentence-length": 17,
+        "z-score": -1.7677669529663687
+    },
+    {
+        "text-index": 303,
+        "sentence-length": 12,
+        "z-score": -1.7056057308448833
+    },
+    {
+        "text-index": 304,
+        "sentence-length": 22,
+        "z-score": -3.938354770443153
+    },
+    {
+        "text-index": 305,
+        "sentence-length": 9,
+        "z-score": -2.8577380332470415
+    },
+    {
+        "text-index": 306,
+        "sentence-length": 6,
+        "z-score": -1.697749375254331
+    },
+    {
+        "text-index": 307,
+        "sentence-length": 7,
+        "z-score": -1.212678125181665
+    },
+    {
+        "text-index": 308,
+        "sentence-length": 20,
+        "z-score": -1.3416407864998738
+    },
+    {
+        "text-index": 309,
+        "sentence-length": 6,
+        "z-score": -1.885618083164127
+    },
+    {
+        "text-index": 310,
+        "sentence-length": 17,
+        "z-score": -3.4112114616897666
+    },
+    {
+        "text-index": 311,
+        "sentence-length": 15,
+        "z-score": -2.116950987028628
+    },
+    {
+        "text-index": 312,
+        "sentence-length": 11,
+        "z-score": -2.9848100289785457
+    },
+    {
+        "text-index": 313,
+        "sentence-length": 6,
+        "z-score": -1.2649110640673518
+    },
+    {
+        "text-index": 314,
+        "sentence-length": 7,
+        "z-score": -2.7136021011998728
+    }
+]
