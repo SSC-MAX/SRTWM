@@ -1,0 +1,3 @@
+matrix_ber:0.376
+agg_ber:0.543
+agg_ori_ber:0.490

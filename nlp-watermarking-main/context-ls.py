@@ -98,8 +98,6 @@ def main(cover_text, f, extracting=False):
 
     return substituted_idset, substituted_indices, watermarking_wordset, encoded_text['input_ids'], message
 
-
-
 if __name__ == "__main__":
     parser = GenericArgs()
     args = parser.parse_args()

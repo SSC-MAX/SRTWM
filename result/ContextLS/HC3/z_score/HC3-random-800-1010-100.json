@@ -1,0 +1,502 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 5,
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.6380343755449944,
+        "water-fast-ber": 0.85
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 10,
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 4,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.6055512754639896,
+        "water-fast-ber": 0.4
+    },
+    {
+        "text-index": 2,
+        "sentence-length": 8,
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.123105625617661,
+        "water-fast-ber": 0.5625
+    },
+    {
+        "text-index": 3,
+        "sentence-length": 11,
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 28,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 4.535573676110727,
+        "water-fast-ber": 0.6363636363636364
+    },
+    {
+        "text-index": 4,
+        "sentence-length": 9,
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 24,
+            "sample_err_cnt": 7,
+            "sample_cnt": 28
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.4907311951024935,
+        "water-fast-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 5,
+        "sentence-length": 6,
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 11,
+            "sample_cnt": 24
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.05085107923876,
+        "water-fast-ber": 0.5833333333333334
+    },
+    {
+        "text-index": 6,
+        "sentence-length": 9,
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 2,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.4444444444444444
+    },
+    {
+        "text-index": 7,
+        "sentence-length": 12,
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 19,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 4.358898943540673,
+        "water-fast-ber": 0.4375
+    },
+    {
+        "text-index": 8,
+        "sentence-length": 7,
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 19
+        },
+        "error-cnt": 2,
+        "cnt": 6,
+        "water-fast-z-score": 3.1529631254723287,
+        "water-fast-ber": 0.6071428571428571
+    },
+    {
+        "text-index": 9,
+        "sentence-length": 14,
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 2,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.30357142857142855
+    }
+]

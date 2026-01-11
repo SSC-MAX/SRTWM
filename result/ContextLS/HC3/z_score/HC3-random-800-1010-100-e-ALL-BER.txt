@@ -1,0 +1,2 @@
+avg_matrix_ber:0.4825
+avg_agg_ber:0.04499287980238718

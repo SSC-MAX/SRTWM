@@ -1,0 +1,3975 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.7,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.4
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 16
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.825,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5625
+    },
+    {
+        "text-index": 2,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.71875,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 3,
+        "sentence-length": 11,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 11,
+            "sentence_cnt": 18
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.8409090909090909,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.6111111111111112
+    },
+    {
+        "text-index": 4,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 10,
+            "sentence_cnt": 20
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.6944444444444444,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            0,
+            0,
+            1,
+            1
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 5,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 9
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.7777777777777778
+    },
+    {
+        "text-index": 6,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.75,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 7,
+        "sentence-length": 12,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 11,
+            "sentence_cnt": 21
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.75,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.5238095238095238
+    },
+    {
+        "text-index": 8,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.8214285714285714,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.75
+    },
+    {
+        "text-index": 9,
+        "sentence-length": 14,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 14,
+            "sentence_cnt": 26
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.7678571428571429,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5384615384615384
+    },
+    {
+        "text-index": 10,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8928571428571429,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8
+    },
+    {
+        "text-index": 11,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 5
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6
+    },
+    {
+        "text-index": 12,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 19
+        },
+        "error-cnt": 2,
+        "cnt": 4,
+        "delete-fast-ber": 0.625,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "agg-ber": 0.631578947368421
+    },
+    {
+        "text-index": 13,
+        "sentence-length": 12,
+        "delete-fast-extracted-message": [
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 6,
+            "sentence_cnt": 16
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.7916666666666666,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.375
+    },
+    {
+        "text-index": 14,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.8928571428571429,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8571428571428571
+    },
+    {
+        "text-index": 15,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            [],
+            [],
+            [
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 11,
+            "sentence_cnt": 16
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.84375,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6875
+    },
+    {
+        "text-index": 16,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.7,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.25
+    },
+    {
+        "text-index": 17,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 8
+        },
+        "error-cnt": 2,
+        "cnt": 4,
+        "delete-fast-ber": 0.8,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            0,
+            0,
+            1,
+            1
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 18,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 6
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 19,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.90625,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8181818181818182
+    },
+    {
+        "text-index": 20,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 8
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.7916666666666666,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.375
+    },
+    {
+        "text-index": 21,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.8333333333333334,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.4
+    },
+    {
+        "text-index": 22,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 5
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.9375,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 1.0
+    },
+    {
+        "text-index": 23,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [],
+            [],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 10,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.9166666666666666,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.7692307692307693
+    },
+    {
+        "text-index": 24,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.78125,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 25,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 11
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.6666666666666666,
+        "matrix-fast-ber": 0.25,
+        "matrix-fast-extracted-message": [
+            1,
+            0,
+            1
+        ],
+        "agg-ber": 0.36363636363636365
+    },
+    {
+        "text-index": 27,
+        "sentence-length": 14,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 19
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8392857142857143,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.631578947368421
+    },
+    {
+        "text-index": 28,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.8571428571428571,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.6923076923076923
+    },
+    {
+        "text-index": 29,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.7142857142857143,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.5714285714285714
+    },
+    {
+        "text-index": 30,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.7142857142857143,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 31,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8888888888888888,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.75
+    },
+    {
+        "text-index": 32,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 11,
+            "sentence_cnt": 18
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6111111111111112
+    },
+    {
+        "text-index": 33,
+        "sentence-length": 12,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 15
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8
+    },
+    {
+        "text-index": 35,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 9
+        },
+        "error-cnt": 1,
+        "cnt": 3,
+        "delete-fast-ber": 0.5,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.2222222222222222
+    },
+    {
+        "text-index": 37,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 6,
+            "sentence_cnt": 9
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.85,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 38,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.85,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.625
+    },
+    {
+        "text-index": 39,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 3
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.9375,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 40,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 4
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.95,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.75
+    },
+    {
+        "text-index": 41,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 6
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.9285714285714286,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 43,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 5
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.85,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.4
+    },
+    {
+        "text-index": 44,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 11
+        },
+        "error-cnt": 3,
+        "cnt": 3,
+        "delete-fast-ber": 0.9166666666666666,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8181818181818182
+    },
+    {
+        "text-index": 45,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.7142857142857143,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 46,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 10,
+            "sentence_cnt": 16
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8055555555555556,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.625
+    },
+    {
+        "text-index": 47,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.8125,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 48,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 6,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.7857142857142857,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 49,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 15
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.75,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.5333333333333333
+    },
+    {
+        "text-index": 50,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 11,
+            "sentence_cnt": 15
+        },
+        "error-cnt": 3,
+        "cnt": 3,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.7333333333333333
+    },
+    {
+        "text-index": 51,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 5
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.8928571428571429,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.4
+    },
+    {
+        "text-index": 52,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 8
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.75,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.625
+    },
+    {
+        "text-index": 53,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 7
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.8125,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5714285714285714
+    },
+    {
+        "text-index": 54,
+        "sentence-length": 7,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                1
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 9
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.9285714285714286,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.7777777777777778
+    },
+    {
+        "text-index": 56,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 16
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.71875,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 57,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.8611111111111112,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.6923076923076923
+    },
+    {
+        "text-index": 58,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 19
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.775,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.631578947368421
+    },
+    {
+        "text-index": 59,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.9,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.6923076923076923
+    },
+    {
+        "text-index": 60,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.9166666666666666,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8181818181818182
+    },
+    {
+        "text-index": 61,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 6,
+            "sentence_cnt": 8
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.8125,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.75
+    },
+    {
+        "text-index": 62,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 18
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.85,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 63,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 4
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1
+        ],
+        "agg-ber": 0.25
+    },
+    {
+        "text-index": 64,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 13,
+            "sentence_cnt": 15
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.95,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8666666666666667
+    },
+    {
+        "text-index": 65,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 9
+        },
+        "error-cnt": 1,
+        "cnt": 2,
+        "delete-fast-ber": 0.8125,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5555555555555556
+    },
+    {
+        "text-index": 66,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1,
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.7083333333333334,
+        "matrix-fast-ber": 0.25,
+        "matrix-fast-extracted-message": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 67,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 6
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8333333333333334
+    },
+    {
+        "text-index": 68,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 7
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.625,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.14285714285714285
+    },
+    {
+        "text-index": 69,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8333333333333334,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.6153846153846154
+    },
+    {
+        "text-index": 70,
+        "sentence-length": 14,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.8928571428571429,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.6
+    },
+    {
+        "text-index": 71,
+        "sentence-length": 15,
+        "delete-fast-extracted-message": [
+            [
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 23
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8166666666666667,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.5217391304347826
+    },
+    {
+        "text-index": 72,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.9166666666666666,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "agg-ber": 0.8
+    },
+    {
+        "text-index": 73,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.8333333333333334,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 74,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.6875,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.23076923076923078
+    },
+    {
+        "text-index": 75,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.78125,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.3
+    },
+    {
+        "text-index": 76,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 7
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "delete-fast-ber": 0.925,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5714285714285714
+    },
+    {
+        "text-index": 77,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 8,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 2,
+        "cnt": 4,
+        "delete-fast-ber": 0.8125,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.6153846153846154
+    },
+    {
+        "text-index": 78,
+        "sentence-length": 12,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 11
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.9166666666666666,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.6363636363636364
+    },
+    {
+        "text-index": 80,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 10,
+            "sentence_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.90625,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.8333333333333334
+    },
+    {
+        "text-index": 81,
+        "sentence-length": 4,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 2,
+        "cnt": 4,
+        "delete-fast-ber": 0.6875,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0,
+            1,
+            1,
+            0
+        ],
+        "agg-ber": 0.5384615384615384
+    },
+    {
+        "text-index": 82,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 17
+        },
+        "error-cnt": 2,
+        "cnt": 4,
+        "delete-fast-ber": 0.75,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "agg-ber": 0.7058823529411765
+    },
+    {
+        "text-index": 83,
+        "sentence-length": 13,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 21
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.6923076923076923,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.23809523809523808
+    },
+    {
+        "text-index": 84,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            [],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 14,
+            "sentence_cnt": 17
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.875,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "agg-ber": 0.8235294117647058
+    },
+    {
+        "text-index": 85,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 11
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.84375,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.6363636363636364
+    },
+    {
+        "text-index": 86,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 13
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.8125,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5384615384615384
+    },
+    {
+        "text-index": 87,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                0
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 7,
+            "sentence_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.78125,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.5
+    },
+    {
+        "text-index": 88,
+        "sentence-length": 3,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 4
+        },
+        "error-cnt": 2,
+        "cnt": 2,
+        "delete-fast-ber": 0.8333333333333334,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.75
+    },
+    {
+        "text-index": 91,
+        "sentence-length": 15,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 11,
+            "sentence_cnt": 19
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.8666666666666667,
+        "matrix-fast-ber": 1,
+        "matrix-fast-extracted-message": [
+            0,
+            1
+        ],
+        "agg-ber": 0.5789473684210527
+    },
+    {
+        "text-index": 92,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.8,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "agg-ber": 0.4
+    },
+    {
+        "text-index": 94,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 5,
+            "sentence_cnt": 9
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.8,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.5555555555555556
+    },
+    {
+        "text-index": 95,
+        "sentence-length": 14,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 12,
+            "sentence_cnt": 22
+        },
+        "error-cnt": 1,
+        "cnt": 1,
+        "delete-fast-ber": 0.8214285714285714,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            0,
+            0
+        ],
+        "agg-ber": 0.5454545454545454
+    },
+    {
+        "text-index": 96,
+        "sentence-length": 6,
+        "delete-fast-extracted-message": [
+            [],
+            [],
+            [
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 7
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.8333333333333334,
+        "matrix-fast-ber": 0.75,
+        "matrix-fast-extracted-message": [
+            1,
+            1
+        ],
+        "agg-ber": 0.42857142857142855
+    },
+    {
+        "text-index": 97,
+        "sentence-length": 16,
+        "delete-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [],
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 15,
+            "sentence_cnt": 28
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.765625,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.5357142857142857
+    },
+    {
+        "text-index": 98,
+        "sentence-length": 15,
+        "delete-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 29
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.5833333333333334,
+        "matrix-fast-ber": 0.5,
+        "matrix-fast-extracted-message": [
+            1,
+            0
+        ],
+        "agg-ber": 0.13793103448275862
+    }
+]

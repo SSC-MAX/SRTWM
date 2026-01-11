@@ -200,7 +200,7 @@ if __name__ == '__main__':
     output = []
 
     detect_watermark(dataset[0]['watermark_text'], generic_args, dirname, spacy_tokenizer, device, model)
-    print(f'original_message:{dataset[0]['original_message']}')
+    print(f"original_message:{dataset[0]['original_message']}")
 
     # for index in tqdm(range(5)):
        

@@ -1,0 +1,2992 @@
+[
+    [
+        {
+            "c_idx": 0,
+            "sen_idx": 0,
+            "s_idset_str": [
+                1,
+                1,
+                7,
+                1,
+                3,
+                8,
+                7,
+                6
+            ],
+            "s_indices_str": [
+                2,
+                0
+            ],
+            "clean_wm_text": "An auto quarter panel is a panel that is located on the quarter of a vehicle, which is the rear portion of the vehicle that extends from the back of the doors to the tail lights.",
+            "keys_str": "back rear",
+            "message_str": [
+                1
+            ],
+            "delete_text": "An auto quarter panel is a panel that is located the quarter a vehicle, which is the rear portion of the vehicle that extends from the back of the doors to the tail lights."
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 1,
+            "s_idset_str": [
+                6,
+                8,
+                1,
+                8,
+                1,
+                6,
+                9,
+                6,
+                6,
+                5,
+                5,
+                2,
+                1,
+                2,
+                2,
+                6,
+                1,
+                6,
+                1,
+                0,
+                3,
+                6,
+                8,
+                6,
+                1,
+                6,
+                1,
+                9,
+                1,
+                6,
+                9,
+                7,
+                4
+            ],
+            "s_indices_str": [
+                1,
+                2,
+                1,
+                4,
+                1,
+                7,
+                2,
+                1
+            ],
+            "clean_wm_text": "The quarter panel is typically made of sheet metal and is an important structural component of the vehicle, helping to support the body and provide stability.",
+            "keys_str": "essential important, component part, car vehicle, support sustain",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "The quarter panel is typically made of sheet metal is an important structural component of the vehicle, helping to the body and provide stability."
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 2,
+            "s_idset_str": [
+                1,
+                1,
+                7,
+                1,
+                3,
+                8,
+                7,
+                6,
+                1,
+                1,
+                7,
+                1,
+                3,
+                8,
+                7,
+                6,
+                1,
+                6,
+                1,
+                0,
+                3,
+                6,
+                8,
+                6
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                3,
+                1,
+                6
+            ],
+            "clean_wm_text": "It also serves to cover and protect the rear wheel wells and the back of the vehicle.",
+            "keys_str": "back rear, back rear, car vehicle",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "It also serves to cover and protect the rear wheel and the back of the vehicle."
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 3,
+            "s_idset_str": [
+                3,
+                0,
+                7,
+                9,
+                4,
+                0,
+                1,
+                1,
+                1,
+                6,
+                2,
+                9,
+                0,
+                2,
+                2,
+                3,
+                7,
+                1,
+                6,
+                1,
+                0,
+                3,
+                6,
+                8,
+                6,
+                1,
+                3,
+                3,
+                0,
+                1,
+                6,
+                3,
+                9
+            ],
+            "s_indices_str": [
+                1,
+                8,
+                1,
+                4,
+                1,
+                7
+            ],
+            "clean_wm_text": "Some vehicles may have a separate quarter panel compartment for each side of the vehicle, while another may have a single panel that spans both sides.",
+            "keys_str": "cars vehicles, compartment section, car vehicle, another others",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "Some vehicles may a separate quarter panel compartment for each side of the vehicle, while another may have a single panel that both sides."
+        },
+        {
+            "c_idx": 0,
+            "sen_idx": 4,
+            "s_idset_str": [
+                4,
+                2,
+                1,
+                6,
+                4,
+                4,
+                9,
+                7,
+                7,
+                5,
+                9,
+                1,
+                4,
+                3,
+                3,
+                0,
+                1,
+                3,
+                3,
+                6,
+                1,
+                5,
+                4,
+                7,
+                1,
+                6,
+                1,
+                0,
+                3,
+                6,
+                8,
+                6
+            ],
+            "s_indices_str": [
+                1,
+                2,
+                1,
+                8,
+                2,
+                1,
+                3,
+                4
+            ],
+            "clean_wm_text": "In some cases, the quarter panel may be damaged in an incident or through normal wear and tear, and might need to be replaced in order to restore the integrity of the car ' s body. \\ n",
+            "keys_str": "accident incident, tear wear, may might, car vehicle",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "In some cases, the quarter panel may be damaged in an incident or through normal and tear, and might need to replaced in order to restore the integrity of the car ' s body. \\ n"
+        }
+    ],
+    [
+        {
+            "c_idx": 1,
+            "sen_idx": 0,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "A flame is made of gas and particles of a fuel that are burning.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "A flame is made of gas and particles of fuel that are burning."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 1,
+            "s_idset_str": [
+                9,
+                5,
+                1,
+                1,
+                1,
+                8,
+                6,
+                9,
+                4,
+                3,
+                2,
+                9,
+                5,
+                1,
+                8,
+                3,
+                8,
+                6,
+                7,
+                9,
+                0,
+                1,
+                7,
+                8,
+                3
+            ],
+            "s_indices_str": [
+                4,
+                1,
+                3,
+                1,
+                5
+            ],
+            "clean_wm_text": "When a fuel is warmed to a high enough temperature, it can begin to fire, or ignite.",
+            "keys_str": "heated warmed, begin start, burn fire",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "When a fuel is warmed to a high temperature, it can begin to fire, or ignite."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 2,
+            "s_idset_str": [
+                6,
+                3,
+                1,
+                1,
+                1,
+                8,
+                3,
+                2
+            ],
+            "s_indices_str": [
+                3,
+                0
+            ],
+            "clean_wm_text": "This happens because the heat causes the molecules in the fuel to move faster and faster, until they are moving so fast that they can break free from the rest of the fuel and float away into the air.",
+            "keys_str": "remainder rest",
+            "message_str": [
+                1
+            ],
+            "delete_text": "This happens the heat the molecules in the fuel to move faster and faster, until they are moving so fast that they can break free from the rest of the fuel and float away into the air."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 3,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "These molecules are called \" combustion products, \" and they are what give a flame its form.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "These are called \" combustion products, \" and they are what give a flame its form."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 4,
+            "s_idset_str": [
+                4,
+                4,
+                5,
+                4,
+                1,
+                6,
+                1,
+                4,
+                1,
+                1,
+                4,
+                5,
+                1,
+                2,
+                5,
+                9,
+                2,
+                9,
+                7,
+                1,
+                1,
+                1,
+                9,
+                7,
+                8
+            ],
+            "s_indices_str": [
+                9,
+                1,
+                1,
+                2,
+                1
+            ],
+            "clean_wm_text": "The form of a flame depends on a few things, also the type of fuel that is burning and the quantity of oxygen in the air.",
+            "keys_str": "items things, also including, amount quantity",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "The form a flame on a few things, also the type of fuel that is burning and the quantity of oxygen in the air."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 5,
+            "s_idset_str": [
+                1,
+                1,
+                7,
+                6,
+                4,
+                2,
+                8,
+                3
+            ],
+            "s_indices_str": [
+                2,
+                2
+            ],
+            "clean_wm_text": "For example, a flame from a candle is made up of a wick surrounded by a thin, cone - shaped flame.",
+            "keys_str": "like shaped",
+            "message_str": [
+                1
+            ],
+            "delete_text": "example, a flame from a candle is made up of a wick surrounded by a thin, cone shaped flame."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 6,
+            "s_idset_str": [
+                2,
+                8,
+                7,
+                1,
+                2,
+                4,
+                2,
+                6
+            ],
+            "s_indices_str": [
+                3
+            ],
+            "clean_wm_text": "The flame is mostly made of hot gases, and it is yellow or orange in color.",
+            "keys_str": "mainly mostly",
+            "message_str": [
+                1
+            ],
+            "delete_text": "The flame is mostly made of hot and it is yellow or orange in color."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 7,
+            "s_idset_str": [
+                1,
+                4,
+                9,
+                4,
+                7,
+                8,
+                9,
+                6,
+                6,
+                1,
+                5,
+                8,
+                6,
+                6,
+                8,
+                1,
+                4
+            ],
+            "s_indices_str": [
+                1,
+                4,
+                2,
+                8
+            ],
+            "clean_wm_text": "This is because the wick is made of a type of fuel that fires relatively slowly and cleanly, and there is enough oxygen in the air for the flame to burn brightly.",
+            "keys_str": "burns fires, air atmosphere",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "This is because the wick is made of a type of fuel that fires relatively slowly and cleanly, and is enough oxygen in air for the flame to burn brightly."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 8,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "On the other hand, a flame from a fire that is burning wood or other solid fuels may be much larger and less defined, with a lot of flickering and movement.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "On the other hand, a flame from a fire that is burning wood or other solid fuels may be much larger and less with lot of flickering and movement."
+        },
+        {
+            "c_idx": 1,
+            "sen_idx": 9,
+            "s_idset_str": [
+                1,
+                3,
+                3,
+                6,
+                1,
+                5,
+                4,
+                7,
+                1,
+                7,
+                8,
+                3,
+                9,
+                9,
+                2,
+                5
+            ],
+            "s_indices_str": [
+                1,
+                1,
+                1,
+                8
+            ],
+            "clean_wm_text": "This is because the fuel is burning more quickly and there might be less oxygen available for the fire to burn.",
+            "keys_str": "may might, fire flame",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "This because fuel is burning more quickly and there might be less oxygen available for the fire to burn."
+        }
+    ],
+    [
+        {
+            "c_idx": 2,
+            "sen_idx": 0,
+            "s_idset_str": [
+                1,
+                5,
+                8,
+                3,
+                1,
+                5,
+                6,
+                9
+            ],
+            "s_indices_str": [
+                1,
+                1
+            ],
+            "clean_wm_text": "There are a few reasons why a world leader or a national might want more land : Resources :",
+            "keys_str": "country national",
+            "message_str": [
+                1
+            ],
+            "delete_text": "There are a few reasons why a world leader or national might want more land : Resources :"
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 1,
+            "s_idset_str": [
+                1,
+                3,
+                3,
+                6,
+                1,
+                5,
+                4,
+                7,
+                9,
+                6,
+                9,
+                2,
+                7,
+                4,
+                6,
+                8
+            ],
+            "s_indices_str": [
+                6,
+                1,
+                3
+            ],
+            "clean_wm_text": "As you mentioned, a leader might want more land if there are precious resources, such as oil or minerals, that can be extracted and sold for a profit.",
+            "keys_str": "may might, precious valuable",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "As you a leader might want more land if there are precious resources, as oil or minerals, that can be extracted and sold for a profit."
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 2,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "This can help a country ' s economy and provide resources that are needed for various purposes.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "This help a country ' s economy and provide resources that are needed for various purposes."
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 3,
+            "s_idset_str": [
+                2,
+                3,
+                0,
+                1,
+                3,
+                6,
+                4,
+                5,
+                7,
+                0,
+                6,
+                1,
+                5,
+                5,
+                6,
+                4,
+                1,
+                6,
+                9,
+                6,
+                1,
+                5,
+                5,
+                8,
+                4,
+                7,
+                4,
+                4,
+                5,
+                4,
+                4,
+                1
+            ],
+            "s_indices_str": [
+                4,
+                1,
+                6,
+                2,
+                3,
+                2,
+                5
+            ],
+            "clean_wm_text": "Strategic advantage : A leadership might also want more land if it gives the country a strategic advantage, such as control over major trade roads or access to military bases.",
+            "keys_str": "leader leadership, strategic strategy, important major, roads routes",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "Strategic advantage : A leadership might want more land if it gives the country a strategic advantage, such as control over major roads or access to military bases."
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 4,
+            "s_idset_str": [
+                2,
+                1,
+                8,
+                2,
+                6,
+                0,
+                1,
+                5,
+                4,
+                2,
+                3,
+                2,
+                1,
+                3,
+                2,
+                8,
+                1,
+                2,
+                9,
+                8,
+                3,
+                4,
+                4,
+                1,
+                3,
+                7,
+                4,
+                8,
+                1,
+                5,
+                4,
+                0
+            ],
+            "s_indices_str": [
+                7,
+                1,
+                5,
+                1,
+                9,
+                2,
+                3
+            ],
+            "clean_wm_text": "Expansion : Some leaders or nations might want more land simply because they desire to expand their territory and increase their authority and influence.",
+            "keys_str": "countries nations, desire want, area territory, authority power",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "Expansion : Some leaders or nations want more land simply because they desire expand their territory and increase their authority and influence."
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 5,
+            "s_idset_str": [
+                1,
+                6,
+                5,
+                4,
+                1,
+                7,
+                2,
+                0,
+                7,
+                2,
+                1,
+                8,
+                2,
+                6,
+                0,
+                1,
+                5,
+                2,
+                3,
+                1,
+                6,
+                3,
+                4,
+                5,
+                8,
+                6
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                0,
+                1,
+                3
+            ],
+            "clean_wm_text": "This might be motivated by a desire to dominate other countries or to establish their dominance in a particular region.",
+            "keys_str": "control dominate, countries nations, assert establish",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "This might be motivated by a desire dominate other countries or to establish their dominance in a particular region."
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 6,
+            "s_idset_str": [
+                1,
+                5,
+                8,
+                3,
+                1,
+                5,
+                6,
+                9,
+                1,
+                7,
+                4,
+                7,
+                3,
+                4,
+                4,
+                1
+            ],
+            "s_indices_str": [
+                1,
+                6,
+                2,
+                2
+            ],
+            "clean_wm_text": "National pride : Some leaders or countries might want more land as a way to boost national pride or to reclaim ground that was once part of the country but was lost due to wars or other conflicts.",
+            "keys_str": "country national, ground territory",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "National pride : Some leaders or countries might want more as a way to boost national pride or to reclaim ground that was once part of country but was lost due to wars or other conflicts."
+        },
+        {
+            "c_idx": 2,
+            "sen_idx": 7,
+            "s_idset_str": [
+                2,
+                1,
+                8,
+                2,
+                6,
+                0,
+                1,
+                5
+            ],
+            "s_indices_str": [
+                1,
+                7
+            ],
+            "clean_wm_text": "It ' s important to note that acquiring more land can often lead to conflicts with other nations and can have serious consequences, so it ' s not a decision that is taken lightly.",
+            "keys_str": "countries nations",
+            "message_str": [
+                1
+            ],
+            "delete_text": "It ' s important to note that acquiring more land can often lead to conflicts with other nations and have serious consequences, so it ' s not a that is taken lightly."
+        }
+    ],
+    [
+        {
+            "c_idx": 3,
+            "sen_idx": 0,
+            "s_idset_str": [
+                1,
+                8,
+                2,
+                5,
+                1,
+                8,
+                0,
+                0,
+                3,
+                8,
+                5,
+                7,
+                9,
+                0,
+                5,
+                0,
+                7,
+                3,
+                7,
+                9,
+                1,
+                2,
+                9,
+                4
+            ],
+            "s_indices_str": [
+                9,
+                1,
+                3,
+                1,
+                8
+            ],
+            "clean_wm_text": "No, it doesn ' t necessarily mean that someone else has to lose money for you to make money.",
+            "keys_str": "person someone, lose sacrifice, earn make",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "No, it doesn ' t necessarily mean that someone else has to money for you to make money."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 1,
+            "s_idset_str": [
+                1,
+                2,
+                4,
+                2,
+                2,
+                5,
+                6,
+                7,
+                2,
+                4,
+                6,
+                7,
+                1,
+                9,
+                4,
+                8
+            ],
+            "s_indices_str": [
+                2,
+                8
+            ],
+            "clean_wm_text": "There are numerous ways that people can make income, and it is possible for someone to make money without someone else losing money.",
+            "keys_str": "many numerous, income money",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "There are numerous ways people can make income, and it is possible for someone to make money someone else losing money."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 2,
+            "s_idset_str": [
+                7,
+                3,
+                7,
+                9,
+                1,
+                2,
+                9,
+                4,
+                4,
+                7,
+                3,
+                3,
+                3,
+                5,
+                5,
+                8,
+                1,
+                3,
+                9,
+                1,
+                8,
+                1,
+                2,
+                3,
+                4
+            ],
+            "s_indices_str": [
+                1,
+                6,
+                1,
+                9,
+                2,
+                2
+            ],
+            "clean_wm_text": "For example, if you start a business and sell goods or services, you can make money by offering something that people want or need.",
+            "keys_str": "earn make, offering providing, folks people",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "For example, if start a business and sell goods or services, you can make money by offering something that people want or"
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 3,
+            "s_idset_str": [
+                1,
+                0,
+                7,
+                9,
+                5,
+                1,
+                7,
+                8,
+                1
+            ],
+            "s_indices_str": [
+                3
+            ],
+            "clean_wm_text": "You are not taking money away from anyone else in this case.",
+            "keys_str": "accepting taking",
+            "message_str": [
+                1
+            ],
+            "delete_text": "You are not taking money from anyone else in this case."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 4,
+            "s_idset_str": [
+                4,
+                7,
+                3,
+                3,
+                3,
+                5,
+                5,
+                8
+            ],
+            "s_indices_str": [
+                4
+            ],
+            "clean_wm_text": "Instead, you are providing value to others and getting paid for it.",
+            "keys_str": "offering providing",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Instead, you are value to others and getting paid for it."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 5,
+            "s_idset_str": [
+                7,
+                3,
+                7,
+                9,
+                1,
+                2,
+                9,
+                4
+            ],
+            "s_indices_str": [
+                4
+            ],
+            "clean_wm_text": "Alternatively, you might make money by investing in stocks or other financial instruments.",
+            "keys_str": "earn make",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Alternatively, you might money by investing in stocks or other financial instruments."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 6,
+            "s_idset_str": [
+                1,
+                3,
+                3,
+                6,
+                1,
+                5,
+                4,
+                7,
+                2,
+                4,
+                6,
+                7,
+                1,
+                9,
+                4,
+                8,
+                1,
+                2,
+                3,
+                7,
+                2,
+                9,
+                6,
+                6,
+                0
+            ],
+            "s_indices_str": [
+                5,
+                7,
+                1,
+                3
+            ],
+            "clean_wm_text": "In this case, you might make income if the value of your investors goes up.",
+            "keys_str": "may might, income money, investments investors",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "In this case, you might make if the value of your investors goes up."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 7,
+            "s_idset_str": [
+                5,
+                0,
+                5,
+                7,
+                1,
+                9,
+                2,
+                8,
+                1,
+                8,
+                0,
+                0,
+                1,
+                3,
+                8,
+                0
+            ],
+            "s_indices_str": [
+                4,
+                6
+            ],
+            "clean_wm_text": "This does not necessarily mean that someone else is losing money, as the value of an investment can go up for many different reasons.",
+            "keys_str": "indicate mean, someone something",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "This does not necessarily mean that someone else is losing money, as the of an investment can up for many different reasons."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 8,
+            "s_idset_str": [
+                1,
+                1,
+                4,
+                5,
+                7,
+                8,
+                0,
+                8,
+                2,
+                4,
+                6,
+                7,
+                1,
+                9,
+                4,
+                8,
+                2,
+                1,
+                8,
+                9,
+                1,
+                1,
+                3,
+                3,
+                7,
+                6,
+                2,
+                6,
+                4,
+                0,
+                9,
+                7,
+                5,
+                0
+            ],
+            "s_indices_str": [
+                2,
+                8,
+                1,
+                0,
+                1,
+                5
+            ],
+            "clean_wm_text": "It is equally possible for you to make income through gambling or other forms of chance, but this is not a reliable or sustainable way to make money over the long term.",
+            "keys_str": "also equally, income money, betting gambling, chance probability",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "It is equally possible for you make income through gambling or other forms of chance, but this is not a reliable or sustainable to make money over the long term."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 9,
+            "s_idset_str": [
+                7,
+                3,
+                7,
+                9,
+                1,
+                2,
+                9,
+                4,
+                9,
+                9,
+                9,
+                4,
+                1,
+                8,
+                0,
+                0
+            ],
+            "s_indices_str": [
+                9,
+                1,
+                2
+            ],
+            "clean_wm_text": "So, in short, it is possible to make money without somebody else losing money.",
+            "keys_str": "earn make, somebody someone",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "So, in short, it is possible to money without somebody else losing money."
+        },
+        {
+            "c_idx": 3,
+            "sen_idx": 10,
+            "s_idset_str": [
+                4,
+                6,
+                1,
+                5,
+                1,
+                3,
+                4,
+                1,
+                2,
+                9,
+                0,
+                6,
+                2,
+                1,
+                9,
+                4,
+                2,
+                6,
+                8,
+                1,
+                1,
+                7,
+                8,
+                2,
+                1,
+                8,
+                4,
+                1,
+                4,
+                7,
+                8,
+                3,
+                2
+            ],
+            "s_indices_str": [
+                4,
+                9,
+                1,
+                5,
+                1,
+                8
+            ],
+            "clean_wm_text": "It is important to think about how you can offer value to others and create win - win scenarios, rather than simply taking money away from others.",
+            "keys_str": "consider think, offer provide, victory win, scenarios situations",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "It is important to think about how you can offer value to and create win - win scenarios, rather simply taking money away from others."
+        }
+    ],
+    [
+        {
+            "c_idx": 4,
+            "sen_idx": 0,
+            "s_idset_str": [
+                2,
+                5,
+                7,
+                8,
+                2,
+                4,
+                7,
+                3,
+                1,
+                2,
+                1,
+                5,
+                1,
+                2,
+                7,
+                5,
+                0,
+                4,
+                7,
+                4,
+                4,
+                4,
+                3,
+                2,
+                4,
+                1,
+                9,
+                5,
+                6,
+                9,
+                9,
+                0,
+                2
+            ],
+            "s_indices_str": [
+                9,
+                1,
+                2,
+                1,
+                4,
+                2,
+                1
+            ],
+            "clean_wm_text": "Asphalt is a type of paving surface that is used on streets, parking lots, and other features.",
+            "keys_str": "material surface, used utilized, roads streets, features surfaces",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "Asphalt is a type paving surface that is used on streets, parking lots, and other features."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 1,
+            "s_idset_str": [
+                1,
+                3,
+                5,
+                3,
+                4,
+                2,
+                9,
+                6,
+                2,
+                9,
+                4,
+                9,
+                1,
+                7,
+                6,
+                9,
+                7,
+                8,
+                4,
+                0,
+                7,
+                6,
+                6,
+                1,
+                8,
+                1,
+                5,
+                6,
+                0,
+                0,
+                7,
+                0,
+                6,
+                9
+            ],
+            "s_indices_str": [
+                7,
+                1,
+                6,
+                2,
+                3,
+                2,
+                5
+            ],
+            "clean_wm_text": "It is made from a mixture of tiny stones, sand, and a type of oil called bitumen, which helps to bind the mixture together.",
+            "keys_str": "small tiny, oil petroleum, assists helps, bind bond",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "It is made from a mixture of tiny stones, sand, and type of oil called which helps to bind the mixture together."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 2,
+            "s_idset_str": [
+                2,
+                9,
+                4,
+                2,
+                5,
+                9,
+                2,
+                2,
+                1,
+                6,
+                0,
+                2,
+                1,
+                8,
+                4,
+                3
+            ],
+            "s_indices_str": [
+                1,
+                3,
+                2,
+                1
+            ],
+            "clean_wm_text": "Bitumen is a thick, sticky substance that is black in colour, which is why asphalt is usually black as well. \\ n \\ nConcrete is another type of paving material that is made from a mixture of water, cement, and small stones.",
+            "keys_str": "color colour, black dark",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "Bitumen is a thick, sticky substance that is black in colour, which why asphalt is usually black as well. \\ \\ nConcrete is another type of paving material that is made from a mixture of water, cement, and stones."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 3,
+            "s_idset_str": [
+                2,
+                5,
+                7,
+                8,
+                9,
+                5,
+                5,
+                6,
+                1,
+                8,
+                3,
+                7,
+                2,
+                5,
+                8,
+                6,
+                5,
+                1,
+                9,
+                1,
+                6,
+                4,
+                1,
+                5,
+                8,
+                2,
+                3
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                5,
+                1,
+                9
+            ],
+            "clean_wm_text": "It is a very hard and durable substance, but it can be more costly to use than pavement.",
+            "keys_str": "material substance, costly expensive, asphalt pavement",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "It is a very hard and durable but it can be more costly to use than pavement."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 4,
+            "s_idset_str": [
+                2,
+                5,
+                4,
+                6,
+                0,
+                1,
+                3,
+                1,
+                5,
+                6,
+                3,
+                5,
+                0,
+                2,
+                7,
+                5,
+                4,
+                7,
+                1,
+                8,
+                3,
+                2,
+                4,
+                9,
+                2,
+                8
+            ],
+            "s_indices_str": [
+                7,
+                2,
+                1,
+                2,
+                9
+            ],
+            "clean_wm_text": "Concrete is also not as flexible as asphalt, which means it can crack more easily when the ground beneath it moves or settles. \\ ne \\ nAs far as the color of asphalt, black is not the only option.",
+            "keys_str": "elastic flexible, beneath underneath, n ne",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "Concrete is also not as flexible as asphalt, which means it can crack more when the ground beneath it moves or settles. \\ ne \\ far as the color of asphalt, black is not the only option."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 5,
+            "s_idset_str": [
+                5,
+                7,
+                6,
+                9,
+                9,
+                8,
+                4,
+                9
+            ],
+            "s_indices_str": [
+                1,
+                0
+            ],
+            "clean_wm_text": "Asphalt can be made in a variety of colours, including red, green, and even pink.",
+            "keys_str": "colors colours",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Asphalt can be made in variety of colours, including red, green, and even pink."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 6,
+            "s_idset_str": [
+                1,
+                8,
+                8,
+                7,
+                6,
+                5,
+                3,
+                9,
+                2,
+                4,
+                9,
+                0,
+                7,
+                1,
+                6,
+                3,
+                9,
+                9
+            ],
+            "s_indices_str": [
+                6,
+                2,
+                1
+            ],
+            "clean_wm_text": "However, black is the most frequent color because it absorbs heat from the sun, which can help to dissolve snow and ice on the road more quickly in colder climates. \\ n \\ nAs for the effect of the color of asphalt on the surrounding area, it is true that dark - colored surfaces tend to absorb more heat from the sun than lighter - colored surfaces.",
+            "keys_str": "common frequent, dissolve melt",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "However, is the frequent color because it absorbs heat from the sun, which can to dissolve snow and ice on the road more quickly in colder climates. \\ n \\ nAs for the effect of the color of asphalt on the surrounding area, it is true that dark - surfaces tend to absorb more heat from the sun than lighter - colored surfaces."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 7,
+            "s_idset_str": [
+                1,
+                8,
+                1,
+                2,
+                2,
+                0,
+                7,
+                2,
+                2,
+                1,
+                9,
+                7,
+                4,
+                1,
+                7,
+                5,
+                1,
+                1,
+                5,
+                5,
+                2,
+                3,
+                2,
+                0,
+                0
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                1,
+                1,
+                8
+            ],
+            "clean_wm_text": "This can make the area around an asphalt roadway or parking lot feel warmer, especially on hot ones.",
+            "keys_str": "road roadway, lot site, days ones",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "This can make the area around an asphalt roadway or lot feel warmer, especially on hot ones."
+        },
+        {
+            "c_idx": 4,
+            "sen_idx": 8,
+            "s_idset_str": [
+                1,
+                2,
+                9,
+                8,
+                1,
+                8,
+                0,
+                5
+            ],
+            "s_indices_str": [
+                2,
+                0
+            ],
+            "clean_wm_text": "However, the heat absorbed by the asphalt is typically not enough to significantly impact the temperature of the surrounding region.",
+            "keys_str": "area region",
+            "message_str": [
+                1
+            ],
+            "delete_text": "However, the heat absorbed by the asphalt is typically not enough to significantly impact the temperature of the surrounding"
+        }
+    ],
+    [
+        {
+            "c_idx": 5,
+            "sen_idx": 0,
+            "s_idset_str": [
+                1,
+                2,
+                3,
+                4,
+                4,
+                9,
+                8,
+                3,
+                1,
+                3,
+                3,
+                0,
+                1,
+                6,
+                3,
+                9,
+                7,
+                5,
+                7,
+                9,
+                5,
+                7,
+                5,
+                5
+            ],
+            "s_indices_str": [
+                1,
+                0,
+                2,
+                4,
+                3,
+                1
+            ],
+            "clean_wm_text": "The Holocaust was a horrific event in which millions of persons, including Jews, Romani, homosexuals, disabled people, and another considered undesirable by the Nazi regime, were systematically murdered during World War II.",
+            "keys_str": "people persons, another others, Hitler Nazi",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "The was a horrific event in which millions of persons, including Jews, Romani, homosexuals, disabled people, and another considered undesirable by the Nazi regime, were systematically murdered during World II."
+        },
+        {
+            "c_idx": 5,
+            "sen_idx": 1,
+            "s_idset_str": [
+                4,
+                0,
+                5,
+                1,
+                1,
+                2,
+                5,
+                9,
+                5,
+                7,
+                5,
+                6,
+                2,
+                6,
+                7,
+                1,
+                2
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                8
+            ],
+            "clean_wm_text": "There is overwhelming evidence of the Holocaust, including documents, photographs, and eyewitness accounts, that confirm its existence and the atrocities that were committed.",
+            "keys_str": "containing including, accounts narratives",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "There is overwhelming evidence of the Holocaust, including documents, photographs, and accounts, that confirm its and the atrocities that were committed."
+        },
+        {
+            "c_idx": 5,
+            "sen_idx": 2,
+            "s_idset_str": [
+                2,
+                8,
+                3,
+                3,
+                1,
+                2,
+                3,
+                4,
+                9,
+                7,
+                6,
+                2,
+                1,
+                6,
+                5,
+                8,
+                9
+            ],
+            "s_indices_str": [
+                6,
+                9
+            ],
+            "clean_wm_text": "Despite this overwhelming evidence, some people choose to deny that the Holocaust ever happened.",
+            "keys_str": "individuals people, deny reject",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "Despite this overwhelming evidence, some people choose to deny that Holocaust ever happened."
+        },
+        {
+            "c_idx": 5,
+            "sen_idx": 3,
+            "s_idset_str": [
+                4,
+                6,
+                8,
+                0,
+                3,
+                6,
+                7,
+                2,
+                1,
+                9,
+                8,
+                0,
+                0,
+                1,
+                1,
+                3,
+                8,
+                8,
+                7,
+                6,
+                5,
+                7,
+                2,
+                0,
+                9,
+                9,
+                7,
+                4,
+                7,
+                6,
+                2,
+                1,
+                6,
+                9,
+                4
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                7,
+                2,
+                4,
+                2,
+                8
+            ],
+            "clean_wm_text": "They may do this for a variety of reasons, such as to advance a political or ideological agenda, to downplay the severity of the crimes committed, or to deflect blame away from those responsible.",
+            "keys_str": "causes reasons, ideological philosophical, intensity severity, committed done",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "They may this a variety of reasons, such as to advance a political or ideological agenda, to downplay the severity of the crimes committed, or to deflect blame away from those responsible."
+        },
+        {
+            "c_idx": 5,
+            "sen_idx": 4,
+            "s_idset_str": [
+                9,
+                1,
+                4,
+                8,
+                2,
+                6,
+                7,
+                6
+            ],
+            "s_indices_str": [
+                5
+            ],
+            "clean_wm_text": "It ' s important to remember that the Holocaust was a real event that had a profound and devastating impact on millions of people.",
+            "keys_str": "recall remember",
+            "message_str": [
+                1
+            ],
+            "delete_text": "It ' s important to remember that the was a real event that a profound and devastating impact on millions of people."
+        },
+        {
+            "c_idx": 5,
+            "sen_idx": 5,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "Denying that it happened is not only historically inaccurate, but it also diminishes the suffering and loss of those who were affected by it.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "that it happened is only historically inaccurate, but it also diminishes the suffering and loss of those who were affected by it."
+        }
+    ],
+    [
+        {
+            "c_idx": 6,
+            "sen_idx": 0,
+            "s_idset_str": [
+                1,
+                4,
+                4,
+                4,
+                4,
+                7,
+                5,
+                2
+            ],
+            "s_indices_str": [
+                2,
+                8
+            ],
+            "clean_wm_text": "If you want to list minor children as beneficiaries of your Individual Retirement Account ( IRA ), you will require to name a custodian for the account.",
+            "keys_str": "need require",
+            "message_str": [
+                1
+            ],
+            "delete_text": "If you want list minor children as beneficiaries of your Individual Retirement Account ( ), you will require to name a custodian for the account."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 1,
+            "s_idset_str": [
+                2,
+                0,
+                2,
+                7,
+                3,
+                1,
+                3,
+                7
+            ],
+            "s_indices_str": [
+                1,
+                6
+            ],
+            "clean_wm_text": "A custodian is a person who is responsible for managing the assets of a minor until they reach the age of majority, which is typically 18 or 21 depending on state laws.",
+            "keys_str": "child minor",
+            "message_str": [
+                1
+            ],
+            "delete_text": "A custodian is a person who is responsible for managing the assets a minor until they reach the age of majority, which is typically 18 21 depending on state laws."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 2,
+            "s_idset_str": [
+                1,
+                4,
+                4,
+                4,
+                4,
+                7,
+                5,
+                2,
+                7,
+                8,
+                4,
+                5,
+                2,
+                7,
+                9,
+                8
+            ],
+            "s_indices_str": [
+                1,
+                2,
+                3,
+                1
+            ],
+            "clean_wm_text": "To name a custodian for your IRA, you will require to fill out a beneficiary designation form provided by your IRA custodian or finance institution.",
+            "keys_str": "need require, finance financial",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "To name custodian for your IRA, will require to fill out a beneficiary designation form provided by your IRA custodian or finance institution."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 3,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "On the form, you will need to provide the name, address, and date of birth of the minor child or children you wish to name as beneficiaries.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "On the form, you need to provide the name, address, and date of of the minor child or children you wish to name as beneficiaries."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 4,
+            "s_idset_str": [
+                2,
+                3,
+                9,
+                9,
+                2,
+                1,
+                8,
+                6,
+                9,
+                4,
+                2,
+                8,
+                2,
+                5,
+                4,
+                9,
+                4,
+                6,
+                2,
+                6,
+                1,
+                1,
+                6,
+                1,
+                9
+            ],
+            "s_indices_str": [
+                1,
+                0,
+                2,
+                0,
+                2,
+                4
+            ],
+            "clean_wm_text": "You will also need to provide the name and contact information for the custodian you have chosen to handle the account on support of the minor.",
+            "keys_str": "info information, handle manage, behalf support",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "You will also need to provide the name and contact for the custodian you have chosen to the account on support of the minor."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 5,
+            "s_idset_str": [
+                4,
+                7,
+                2,
+                7,
+                4,
+                0,
+                9,
+                9
+            ],
+            "s_indices_str": [
+                9
+            ],
+            "clean_wm_text": "It is important to choose a custodian closely, as they will have significant responsibility for managing the assets in the account.",
+            "keys_str": "carefully closely",
+            "message_str": [
+                1
+            ],
+            "delete_text": "It important to choose a custodian closely, they will have significant responsibility for managing the assets in the account."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 6,
+            "s_idset_str": [
+                1,
+                4,
+                2,
+                0,
+                1,
+                8,
+                2,
+                5,
+                6,
+                5,
+                0,
+                7,
+                4,
+                5,
+                4,
+                5
+            ],
+            "s_indices_str": [
+                9,
+                2,
+                9
+            ],
+            "clean_wm_text": "You may want to consider naming a trusted family person or friend as custodian, or you may wish to consider a professional, such as an attorney or financial advisor.",
+            "keys_str": "member person, attorney lawyer",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "You may want to naming a trusted family person or friend as custodian, or you may wish to consider a professional, such as an attorney or financial"
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 7,
+            "s_idset_str": [
+                6,
+                2,
+                6,
+                5,
+                2,
+                0,
+                3,
+                7,
+                1,
+                4,
+                8,
+                2,
+                4,
+                0,
+                6,
+                7,
+                3,
+                4,
+                6,
+                8,
+                1,
+                8,
+                7,
+                9
+            ],
+            "s_indices_str": [
+                7,
+                1,
+                8,
+                2,
+                6
+            ],
+            "clean_wm_text": "It is also a good idea to talk your beneficiary designations with your minor children and the custodian you have decided to ensure that everyone is aware of and comfortable with the arrangement.",
+            "keys_str": "discuss talk, children kids, chosen decided",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "It also a idea to talk your beneficiary designations with your minor children and the custodian you have decided to ensure that everyone is aware of and comfortable with the arrangement."
+        },
+        {
+            "c_idx": 6,
+            "sen_idx": 8,
+            "s_idset_str": [
+                1,
+                1,
+                9,
+                8,
+                4,
+                1,
+                2,
+                7,
+                6,
+                4,
+                1,
+                9,
+                5,
+                4,
+                1,
+                6,
+                7,
+                5
+            ],
+            "s_indices_str": [
+                8,
+                2,
+                4
+            ],
+            "clean_wm_text": "Finally, it is important to review and upgrade your beneficiary designations regularly to ensure that they accurately reflect your current wishes.",
+            "keys_str": "update upgrade, current present",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "Finally, it is important to review and upgrade your beneficiary designations regularly to that accurately reflect your current wishes."
+        }
+    ],
+    [
+        {
+            "c_idx": 7,
+            "sen_idx": 0,
+            "s_idset_str": [
+                2,
+                1,
+                7,
+                8,
+                6,
+                1,
+                0,
+                2
+            ],
+            "s_indices_str": [
+                3,
+                3
+            ],
+            "clean_wm_text": "Polynomial regression is a type of regression analysis in which the relationship between the independent variable x and the dependent variable y is modeled as an nth extent polynomial.",
+            "keys_str": "degree extent",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Polynomial regression is a type of regression analysis which the relationship between the variable x and the dependent variable y is modeled as an nth extent polynomial."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 1,
+            "s_idset_str": [
+                4,
+                1,
+                2,
+                5,
+                6,
+                0,
+                8,
+                5
+            ],
+            "s_indices_str": [
+                1,
+                1
+            ],
+            "clean_wm_text": "Polynomial regression can be used to model relationships between variables that are not linear.",
+            "keys_str": "relations relationships",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Polynomial regression be used to model relationships between variables that are not linear."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 2,
+            "s_idset_str": [
+                4,
+                3,
+                2,
+                1,
+                2,
+                9,
+                6,
+                7,
+                1,
+                5,
+                3,
+                2,
+                2,
+                2,
+                3,
+                5,
+                2,
+                1,
+                7,
+                8,
+                1,
+                6,
+                3,
+                4
+            ],
+            "s_indices_str": [
+                1,
+                1,
+                1,
+                5,
+                3,
+                7
+            ],
+            "clean_wm_text": "A polynomial regression model is a special case of a multiple linear regression form, in which the relationship between the independent variable x and the dependent variable y is modeled as an nth level polynomial.",
+            "keys_str": "multi multiple, form model, degree level",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "A polynomial regression model is a special case of a multiple linear regression form, in which relationship between the independent variable x and the dependent variable y is modeled an nth level polynomial."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 3,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "The general form of a polynomial regression model is given by : y = b0 + b1x + b2x ^ 2 +.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "The general form of polynomial regression model is given by : y = b0 + b1x + b2x ^ 2"
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 4,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "+ bn * x ^ n where b0, b1,., bn are the coefficients of the polynomial, and x is the independent variable.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "+ bn * x ^ n where b0, b1,., bn are the coefficients the polynomial, x is the independent variable."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 5,
+            "s_idset_str": [
+                6,
+                7,
+                7,
+                1,
+                1,
+                7,
+                5,
+                7,
+                9
+            ],
+            "s_indices_str": [
+                1,
+                6
+            ],
+            "clean_wm_text": "The degree of the polynomial ( i. e., the value of n ) determines the flexibility of the model.",
+            "keys_str": "decides determines",
+            "message_str": [
+                1
+            ],
+            "delete_text": "The degree of the polynomial ( i. e., the of n ) determines the flexibility of the model."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 6,
+            "s_idset_str": [
+                2,
+                7,
+                0,
+                3,
+                8,
+                2,
+                7,
+                7,
+                1,
+                3,
+                6,
+                3,
+                1,
+                2,
+                1,
+                8
+            ],
+            "s_indices_str": [
+                7,
+                2,
+                8
+            ],
+            "clean_wm_text": "A higher degree polynomial can capture more complicated relationships between x and y, but it can also lead to overfitting if the model is not good - tuned.",
+            "keys_str": "complex complicated, good well",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "A higher degree polynomial can more complicated relationships between x and y, but it can also lead to overfitting if the model not good - tuned."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 7,
+            "s_idset_str": [
+                1,
+                4,
+                4,
+                4,
+                4,
+                7,
+                5,
+                2,
+                2,
+                1,
+                7,
+                8,
+                1,
+                9,
+                0,
+                6,
+                8
+            ],
+            "s_indices_str": [
+                9,
+                2,
+                3
+            ],
+            "clean_wm_text": "To fit a polynomial regression model, you require to choose the degree of the polynomial and estimate the coefficients of the degree.",
+            "keys_str": "need require, degree polynomial",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "To fit a polynomial regression model, you require to choose the degree the polynomial and estimate the coefficients the degree."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 8,
+            "s_idset_str": [
+                1,
+                6,
+                0,
+                6,
+                1,
+                9,
+                1,
+                0,
+                5,
+                4,
+                0,
+                6,
+                9,
+                4,
+                8,
+                8,
+                4,
+                1,
+                6,
+                6,
+                1,
+                0,
+                6,
+                5,
+                8,
+                5
+            ],
+            "s_indices_str": [
+                4,
+                9,
+                2,
+                2
+            ],
+            "clean_wm_text": "This can be done utilizing standard linear regression methods, such as ordinary least squares ( OLS ) or gradient descent.",
+            "keys_str": "using utilizing, methods techniques, descending descent",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "This can be done utilizing standard linear regression methods, such as ordinary least squares OLS ) or gradient descent."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 9,
+            "s_idset_str": [
+                4,
+                1,
+                2,
+                5,
+                6,
+                0,
+                8,
+                5
+            ],
+            "s_indices_str": [
+                1,
+                0
+            ],
+            "clean_wm_text": "Polynomial regression is useful for modeling relationships between variables that are not linear.",
+            "keys_str": "relations relationships",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Polynomial regression is useful for modeling relationships between that are not linear."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 10,
+            "s_idset_str": [
+                1,
+                3,
+                5,
+                9,
+                1,
+                6,
+                0,
+                6,
+                2,
+                8,
+                6,
+                0,
+                7,
+                8,
+                9,
+                8
+            ],
+            "s_indices_str": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "clean_wm_text": "It can be used to fit a curve to a set of data points and make predictions about future values of the dependent variable using on new values of the independent value.",
+            "keys_str": "based using, value variable",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "It can be used to fit a curve to a set of data and make predictions about values of the dependent variable using on new values of the independent value."
+        },
+        {
+            "c_idx": 7,
+            "sen_idx": 11,
+            "s_idset_str": [
+                1,
+                3,
+                3,
+                6,
+                1,
+                5,
+                4,
+                7,
+                2,
+                7,
+                0,
+                3,
+                8,
+                2,
+                7,
+                7,
+                1,
+                6,
+                0,
+                6,
+                2,
+                2,
+                5,
+                8
+            ],
+            "s_indices_str": [
+                1,
+                7,
+                1,
+                9,
+                2,
+                8
+            ],
+            "clean_wm_text": "It is commonly used in fields such as engineering, economics, and finance, where there might be complex relationships between variables that are not easily modeled via linear regression.",
+            "keys_str": "may might, complex complicated, using via",
+            "message_str": [
+                1,
+                0,
+                1
+            ],
+            "delete_text": "It is commonly used in fields such as engineering, and finance, where there might be complex relationships variables that are not easily modeled via linear regression."
+        }
+    ],
+    [
+        {
+            "c_idx": 8,
+            "sen_idx": 0,
+            "s_idset_str": [
+                2,
+                7,
+                0,
+                3,
+                8,
+                2,
+                7,
+                7
+            ],
+            "s_indices_str": [
+                1,
+                1
+            ],
+            "clean_wm_text": "Forgiving everyone ' s debts would be a very complicated and difficult process, and it might not have the intended consequences.",
+            "keys_str": "complex complicated",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Forgiving everyone ' s debts would be a complicated and difficult process, and it might not have the consequences."
+        },
+        {
+            "c_idx": 8,
+            "sen_idx": 1,
+            "s_idset_str": [
+                1,
+                1,
+                8,
+                0,
+                1,
+                1,
+                5,
+                6
+            ],
+            "s_indices_str": [
+                1,
+                0
+            ],
+            "clean_wm_text": "If everyone ' s debts were forgiven, it would lead to inflation, which is when the value of money goes down.",
+            "keys_str": "could would",
+            "message_str": [
+                1
+            ],
+            "delete_text": "everyone ' s debts were forgiven, it would lead to inflation, which is the value of money goes down."
+        },
+        {
+            "c_idx": 8,
+            "sen_idx": 2,
+            "s_idset_str": [
+                1,
+                5,
+                6,
+                1,
+                1,
+                2,
+                9,
+                4,
+                1,
+                2,
+                3,
+                4,
+                1,
+                8,
+                0,
+                0
+            ],
+            "s_indices_str": [
+                2,
+                6
+            ],
+            "clean_wm_text": "This could make it harder for people to afford basic things like food and housing.",
+            "keys_str": "become make, people someone",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "could make it harder for people to afford basic things like food and housing."
+        },
+        {
+            "c_idx": 8,
+            "sen_idx": 3,
+            "s_idset_str": [
+                1,
+                7,
+                9,
+                3,
+                1,
+                5,
+                8,
+                9
+            ],
+            "s_indices_str": [
+                1,
+                4
+            ],
+            "clean_wm_text": "Additionally, forgiving debts might not be fair to people who have worked hard to pay off their debts and live responsibly.",
+            "keys_str": "tried worked",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Additionally, forgiving debts might not be fair to people who worked hard pay off their debts and live responsibly."
+        },
+        {
+            "c_idx": 8,
+            "sen_idx": 4,
+            "s_idset_str": [
+                1,
+                6,
+                3,
+                9,
+                1,
+                2,
+                3,
+                4,
+                1,
+                8,
+                4,
+                8,
+                8,
+                1,
+                9,
+                4,
+                8,
+                1,
+                3,
+                2,
+                2,
+                2,
+                1,
+                7,
+                4,
+                4,
+                1,
+                0,
+                3,
+                1,
+                1,
+                5,
+                6
+            ],
+            "s_indices_str": [
+                5,
+                1,
+                1,
+                1,
+                4,
+                1,
+                8
+            ],
+            "clean_wm_text": "It might also discourage people from being responsible with their finances in the future, because they shall know that their debts could potentially be forgiven.",
+            "keys_str": "others people, finances money, end future, shall would",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "It might also discourage people from being responsible their finances in the future, because they shall know that their debts could be forgiven."
+        },
+        {
+            "c_idx": 8,
+            "sen_idx": 5,
+            "s_idset_str": [
+                7,
+                2,
+                9,
+                0,
+                1,
+                5,
+                2,
+                5,
+                7,
+                8,
+                5,
+                1,
+                5,
+                6,
+                0,
+                1
+            ],
+            "s_indices_str": [
+                5,
+                1,
+                2
+            ],
+            "clean_wm_text": "It ' s important to find ways to help people who are struggling with debt, but forgiving all debts is not a simple solution and could have unintended consequences.",
+            "keys_str": "discover find, struggling suffering",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "' s important to find ways to help people who are struggling debt, but forgiving all debts is not a simple solution and could have unintended consequences."
+        },
+        {
+            "c_idx": 8,
+            "sen_idx": 6,
+            "s_idset_str": [
+                5,
+                0,
+                5,
+                2,
+                1,
+                4,
+                9,
+                4,
+                1,
+                3,
+                9,
+                1,
+                8,
+                1,
+                2,
+                3,
+                4,
+                7,
+                8,
+                5,
+                1,
+                5,
+                6,
+                0,
+                1,
+                7,
+                8,
+                4,
+                5,
+                2,
+                7,
+                9,
+                8
+            ],
+            "s_indices_str": [
+                1,
+                4,
+                1,
+                6,
+                1,
+                9,
+                2,
+                6
+            ],
+            "clean_wm_text": "Instead, there are other ways that governments and organizations can provide support and help to folks who are suffering with debt, such as through finance education and counseling, debt consolidation, or bankruptcy protections.",
+            "keys_str": "assistance help, folks people, struggling suffering, finance financial",
+            "message_str": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "delete_text": "Instead, there other ways that and organizations can provide support and help to folks who are suffering with debt, such as through finance education and counseling, debt consolidation, or bankruptcy protections."
+        }
+    ],
+    [
+        {
+            "c_idx": 9,
+            "sen_idx": 0,
+            "s_idset_str": [
+                4,
+                6,
+                9,
+                2,
+                1,
+                1,
+                9,
+                2,
+                8,
+                1,
+                6,
+                0,
+                6,
+                1,
+                9,
+                1,
+                0,
+                5
+            ],
+            "s_indices_str": [
+                1,
+                0,
+                1,
+                5
+            ],
+            "clean_wm_text": "In Gnucash, you can separate individual expenses from family expenses by using accounts.",
+            "keys_str": "costs expenses, using utilizing",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "In you can separate individual expenses from family expenses by using accounts."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 1,
+            "s_idset_str": [
+                4,
+                4,
+                8,
+                9,
+                1,
+                2,
+                0,
+                7
+            ],
+            "s_indices_str": [
+                1,
+                4
+            ],
+            "clean_wm_text": "Here are the steps you can follow to do this : Create a new account for each individual in your family.",
+            "keys_str": "fresh new",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Here are the steps can to do this : Create a new account for each individual in your family."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 2,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "You can do this by going to the \" Accounts \" menu and selecting \" New Account \".",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "You can do this going to the \" Accounts \" menu and selecting \" New Account \"."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 3,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "Choose the appropriate account type ( e. g., Expense, Asset, Liability ) and enter the name of the individual as the account name.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "Choose the appropriate account type ( e. g., Expense, Asset, Liability and enter the name the individual as the account name."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 4,
+            "s_idset_str": [
+                4,
+                6,
+                9,
+                2,
+                1,
+                1,
+                9,
+                2,
+                8
+            ],
+            "s_indices_str": [
+                8
+            ],
+            "clean_wm_text": "Set up a parent account for your family expenses.",
+            "keys_str": "costs expenses",
+            "message_str": [
+                1
+            ],
+            "delete_text": "Set up a account for your family expenses."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 5,
+            "s_idset_str": [
+                1,
+                9,
+                1,
+                2,
+                2,
+                0,
+                7,
+                6
+            ],
+            "s_indices_str": [
+                1,
+                5
+            ],
+            "clean_wm_text": "This can be an Expense or Asset account, depending on the type of expenses you are tracking.",
+            "keys_str": "kind type",
+            "message_str": [
+                1
+            ],
+            "delete_text": "This can be an or Asset account, depending on the type of expenses you are tracking."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 6,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "Name the account \" Family Expenses \" or something similar.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "the account \" Family Expenses \" or something similar."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 7,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "Set up sub - accounts under the parent account for each category of family expense.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "Set up sub - accounts under the parent for each category of family expense."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 8,
+            "s_idset_str": [
+                1,
+                0,
+                3,
+                6,
+                7,
+                5,
+                9,
+                3,
+                6
+            ],
+            "s_indices_str": [
+                1,
+                8
+            ],
+            "clean_wm_text": "For example, you might have sub - accounts for groceries, utilities, and entertainment.",
+            "keys_str": "amusement entertainment",
+            "message_str": [
+                1
+            ],
+            "delete_text": "For example, might have sub - accounts for groceries, utilities, and entertainment."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 9,
+            "s_idset_str": [
+                4,
+                5,
+                5,
+                1,
+                1,
+                6,
+                4,
+                7
+            ],
+            "s_indices_str": [
+                7
+            ],
+            "clean_wm_text": "When you make a family expense, record it in the appropriate sub - account under the \" Family Expenses \" parent account.",
+            "keys_str": "mark record",
+            "message_str": [
+                1
+            ],
+            "delete_text": "When you make a family record it in the appropriate sub - account under the \" Family Expenses parent account."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 10,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "For example, if you buy groceries, you would record the transaction in the \" Groceries \" sub - account.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "For example, if you buy groceries, you would record the transaction the \" Groceries \" sub - account."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 11,
+            "s_idset_str": [
+                5,
+                8,
+                3,
+                0,
+                1,
+                6,
+                4,
+                7,
+                2,
+                5,
+                1,
+                0,
+                2,
+                3,
+                5,
+                7
+            ],
+            "s_indices_str": [
+                1,
+                1,
+                1,
+                5
+            ],
+            "clean_wm_text": "When an individual in your family makes a personal expense, record it in their individual account.",
+            "keys_str": "document record, individual personal",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "an individual in your family makes a personal expense, record it in their individual account."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 12,
+            "s_idset_str": [],
+            "s_indices_str": [],
+            "clean_wm_text": "For example, if one family member buys a new shirt, you would record the transaction in their individual Expense account.",
+            "keys_str": "",
+            "message_str": [],
+            "delete_text": "For example, if one family member buys a new shirt, you would record the in their individual Expense account."
+        },
+        {
+            "c_idx": 9,
+            "sen_idx": 13,
+            "s_idset_str": [
+                3,
+                2,
+                5,
+                3,
+                1,
+                2,
+                3,
+                3,
+                7,
+                2,
+                7,
+                6,
+                7,
+                3,
+                3,
+                2,
+                5
+            ],
+            "s_indices_str": [
+                8,
+                1,
+                1
+            ],
+            "clean_wm_text": "By using this account structure, you can readily track and separate individual expenses from family expenses in Gnucash.",
+            "keys_str": "easily readily, separate split",
+            "message_str": [
+                1,
+                0
+            ],
+            "delete_text": "By using this account structure, you can readily track and separate individual expenses from family in Gnucash."
+        }
+    ]
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 5,
+        "delete-fast-extracted-message": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "delete-fast-ber": 0.0
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 10,
+        "delete-fast-extracted-message": [
+            1,
+            0
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 4,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "delete-fast-ber": 0.5
+    },
+    {
+        "text-index": 2,
+        "sentence-length": 8,
+        "delete-fast-extracted-message": [
+            1
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.75
+    },
+    {
+        "text-index": 3,
+        "sentence-length": 11,
+        "delete-fast-extracted-message": [
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 28,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "delete-fast-ber": 0.25
+    },
+    {
+        "text-index": 4,
+        "sentence-length": 9,
+        "delete-fast-extracted-message": [
+            1
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 24,
+            "sample_err_cnt": 7,
+            "sample_cnt": 28
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "delete-fast-ber": 0.75
+    }
+]

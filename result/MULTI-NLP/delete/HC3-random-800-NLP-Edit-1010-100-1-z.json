@@ -1,0 +1,195 @@
+[
+    [
+        {
+            "original_text": "Baptists, Methodists, Lutherans, and Presbyterians are all Christian denominations, which means they are all groups of people who follow the teachings of Jesus Christ and believe in the same basic principles of the Christian faith.",
+            "watermark_text": "Baptists, Methodists, Lutherans, and Presbyterians are all Christian denominations, which means they are all groups of people who follow the teachings of Jesus Christ and believe in the same basic principles of the Christian faith.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Here are some key differences between these denominations: Baptists: Baptists are a Protestant Christian denomination that emphasizes the importance of personal faith and the priesthood of all believers.",
+            "watermark_text": "Here are some key differences between these denominations: Baptists: Baptists are a Protestant Christian denomination that emphasizes the importance of personal faith and the priesthood of all believers.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "They believe that people should be baptized as adults, after they have made the decision to follow Jesus on their own.",
+            "watermark_text": "They believe that people should become baptized as adults, after they have made the decision to follow Jesus on their own.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Baptists place a strong emphasis on the Bible as the authority for their beliefs and practices.",
+            "watermark_text": "Baptists place a strong emphasis on the Bible as the authority for their beliefs and practices.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Methodists: Methodists are another Protestant Christian denomination that was founded by John Wesley in the 18th century.",
+            "watermark_text": "Methodists: Methodists are another Protestant Christian denomination that was founded by John Wesley in the 18th century.",
+            "water-embed-message": [
+                0
+            ],
+            "water-fast-extracted-message": [
+                0
+            ],
+            "delete-fast-extracted-message": [
+                0
+            ]
+        },
+        {
+            "original_text": "They believe in the importance of personal faith and the priesthood of all believers, like Baptists.",
+            "watermark_text": "They believe in the importance of personal faith and the priesthood of all believers, like Baptists.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                0
+            ]
+        },
+        {
+            "original_text": "Methodists place a strong emphasis on social justice and the idea that everyone is called to serve others.",
+            "watermark_text": "Methodists place a strong emphasis on social justice and the idea that everyone is called to serve others.",
+            "water-embed-message": [
+                0
+            ],
+            "water-fast-extracted-message": [
+                0
+            ],
+            "delete-fast-extracted-message": [
+                0
+            ]
+        },
+        {
+            "original_text": "They also place a strong emphasis on the importance of education and reason in interpreting the Bible.",
+            "watermark_text": "They also place a strong emphasis on the importance of education and reason in interpreting the Bible.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Lutherans: Lutherans are a Protestant Christian denomination that was founded by Martin Luther in the 16th century.",
+            "watermark_text": "Lutherans: Lutherans are a Protestant Christian denomination that was founded by Martin Luther in the 16th century.",
+            "water-embed-message": [
+                0
+            ],
+            "water-fast-extracted-message": [
+                0
+            ],
+            "delete-fast-extracted-message": []
+        },
+        {
+            "original_text": "They believe in the importance of grace, which is God s love and forgiveness that is freely given to people, even though they do not deserve it.",
+            "watermark_text": "They believe in the importance of grace, which is God s love and forgiveness that is freely given to people, even though they do not deserve it.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Lutherans also place a strong emphasis on the Bible and the teachings of Jesus as the basis for their beliefs and practices.",
+            "watermark_text": "Lutherans also place a strong emphasis on the Bible and the teachings of Jesus as the basis for their beliefs and practices.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Presbyterians: Presbyterians are a Protestant Christian denomination that emphasizes the importance of following the teachings of Jesus and the authority of the Bible.",
+            "watermark_text": "Presbyterians: Presbyterians are a Protestant Christian denomination that emphasizes the importance of following the teachings of Jesus and the authority of the Bible.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "They are governed by a system of councils, with clergy and lay people working together to make decisions.",
+            "watermark_text": "They are governed by a system of councils, with clergy and lay people working together to make decisions.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": []
+        },
+        {
+            "original_text": "Presbyterians place a strong emphasis on the priesthood of all believers and the importance of education and reason in interpreting the Bible.",
+            "watermark_text": "Presbyterians place a strong emphasis on the priesthood of all believers and the importance of education and reason in interpreting the Bible.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        },
+        {
+            "original_text": "Overall, while these denominations may have some differences in their beliefs and practices, they all believe in the same basic principles of the Christian faith and follow the teachings of Jesus.",
+            "watermark_text": "Overall, although these denominations may have some differences in their beliefs and practices, they all believe in the same basic principles of the Christian faith and follow the teachings of Jesus.",
+            "water-embed-message": [
+                1
+            ],
+            "water-fast-extracted-message": [
+                1
+            ],
+            "delete-fast-extracted-message": [
+                1
+            ]
+        }
+    ]
+]

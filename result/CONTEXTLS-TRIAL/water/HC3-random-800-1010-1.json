@@ -1,0 +1,7584 @@
+[
+    {
+        "text-index": 0,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.6380343755449944,
+        "water-fast-ber": 0.85
+    },
+    {
+        "text-index": 1,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 4,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.6055512754639896,
+        "water-fast-ber": 0.4
+    },
+    {
+        "text-index": 2,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.123105625617661,
+        "water-fast-ber": 0.5625
+    },
+    {
+        "text-index": 3,
+        "sentence-length": 11,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 28,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 4.535573676110727,
+        "water-fast-ber": 0.6363636363636364
+    },
+    {
+        "text-index": 4,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 24,
+            "sample_err_cnt": 7,
+            "sample_cnt": 28
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.4907311951024935,
+        "water-fast-ber": 0.6666666666666666
+    },
+    {
+        "text-index": 5,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 11,
+            "sample_cnt": 24
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.05085107923876,
+        "water-fast-ber": 0.5833333333333334
+    },
+    {
+        "text-index": 6,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 2,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.4444444444444444
+    },
+    {
+        "text-index": 7,
+        "sentence-length": 12,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 19,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 4.358898943540673,
+        "water-fast-ber": 0.4375
+    },
+    {
+        "text-index": 8,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 19
+        },
+        "error-cnt": 2,
+        "cnt": 6,
+        "water-fast-z-score": 3.1529631254723287,
+        "water-fast-ber": 0.6071428571428571
+    },
+    {
+        "text-index": 9,
+        "sentence-length": 14,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 2,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.30357142857142855
+    },
+    {
+        "text-index": 10,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 26,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 3.922322702763681,
+        "water-fast-ber": 0.9285714285714286
+    },
+    {
+        "text-index": 11,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 10,
+            "sample_cnt": 26
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.162277660168379,
+        "water-fast-ber": 0.625
+    },
+    {
+        "text-index": 12,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 10
+        },
+        "error-cnt": 2,
+        "cnt": 6,
+        "water-fast-z-score": 3.1529631254723287,
+        "water-fast-ber": 0.7083333333333334
+    },
+    {
+        "text-index": 13,
+        "sentence-length": 12,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 23,
+            "sample_err_cnt": 2,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 4.37880269519857,
+        "water-fast-ber": 0.5208333333333334
+    },
+    {
+        "text-index": 14,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 14,
+            "sample_err_cnt": 15,
+            "sample_cnt": 23
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.7416573867739413,
+        "water-fast-ber": 0.5
+    },
+    {
+        "text-index": 15,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 0,
+            "sample_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.4375
+    },
+    {
+        "text-index": 16,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.464101615137755,
+        "water-fast-ber": 0.65
+    },
+    {
+        "text-index": 17,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 0,
+            "sample_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.55
+    },
+    {
+        "text-index": 18,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 8,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 2.82842712474619,
+        "water-fast-ber": 0.5
+    },
+    {
+        "text-index": 19,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 0,
+            "sample_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.6055512754639896,
+        "water-fast-ber": 0.46875
+    },
+    {
+        "text-index": 20,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 16,
+            "sample_err_cnt": 0,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.0,
+        "water-fast-ber": 0.7083333333333334
+    },
+    {
+        "text-index": 21,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 26,
+            "sample_err_cnt": 5,
+            "sample_cnt": 16
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 3.922322702763681,
+        "water-fast-ber": 0.75
+    },
+    {
+        "text-index": 22,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 8,
+            "sample_err_cnt": 5,
+            "sample_cnt": 26
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 2.82842712474619,
+        "water-fast-ber": 0.5625
+    },
+    {
+        "text-index": 23,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 0,
+            "sample_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.464101615137755,
+        "water-fast-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 24,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 23,
+            "sample_err_cnt": 0,
+            "sample_cnt": 12
+        },
+        "error-cnt": 3,
+        "cnt": 7,
+        "water-fast-z-score": 3.127716210856122,
+        "water-fast-ber": 0.75
+    },
+    {
+        "text-index": 25,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 8,
+            "sample_err_cnt": 13,
+            "sample_cnt": 23
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.82842712474619,
+        "water-fast-ber": 0.3333333333333333
+    },
+    {
+        "text-index": 26,
+        "sentence-length": 2,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 9,
+            "sample_err_cnt": 0,
+            "sample_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 1.6666666666666667,
+        "water-fast-ber": 1.125
+    },
+    {
+        "text-index": 27,
+        "sentence-length": 14,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 4,
+            "sample_err_cnt": 3,
+            "sample_cnt": 9
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 2.0,
+        "water-fast-ber": 0.25
+    },
+    {
+        "text-index": 28,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 6,
+            "sample_err_cnt": 0,
+            "sample_cnt": 4
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 2.4494897427831783,
+        "water-fast-ber": 0.2857142857142857
+    },
+    {
+        "text-index": 29,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 0,
+            "sample_cnt": 6
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.162277660168379,
+        "water-fast-ber": 0.35714285714285715
+    },
+    {
+        "text-index": 30,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 0,
+            "sample_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.464101615137755,
+        "water-fast-ber": 0.4642857142857143
+    },
+    {
+        "text-index": 31,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 18,
+            "sample_err_cnt": 0,
+            "sample_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 2.8284271247461903,
+        "water-fast-ber": 0.5833333333333334
+    },
+    {
+        "text-index": 32,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 10,
+            "sample_cnt": 18
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.464101615137755,
+        "water-fast-ber": 0.425
+    },
+    {
+        "text-index": 33,
+        "sentence-length": 12,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 16,
+            "sample_err_cnt": 0,
+            "sample_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 4.0,
+        "water-fast-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 34,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 0,
+            "sample_cnt": 16
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.35
+    },
+    {
+        "text-index": 35,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.1105794120443453,
+        "water-fast-ber": 0.6875
+    },
+    {
+        "text-index": 36,
+        "sentence-length": 17,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 14,
+            "sample_err_cnt": 4,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.7416573867739413,
+        "water-fast-ber": 0.29411764705882354
+    },
+    {
+        "text-index": 37,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 5,
+            "sample_err_cnt": 0,
+            "sample_cnt": 14
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 2.23606797749979,
+        "water-fast-ber": 0.3
+    },
+    {
+        "text-index": 38,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 4,
+            "sample_err_cnt": 0,
+            "sample_cnt": 5
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 2.0,
+        "water-fast-ber": 0.3
+    },
+    {
+        "text-index": 39,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 0,
+            "sample_cnt": 4
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.5298221281347035,
+        "water-fast-ber": 0.6875
+    },
+    {
+        "text-index": 40,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 4,
+            "sample_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.6055512754639896,
+        "water-fast-ber": 0.7
+    },
+    {
+        "text-index": 41,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 0,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.5357142857142857
+    },
+    {
+        "text-index": 42,
+        "sentence-length": 11,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.464101615137755,
+        "water-fast-ber": 0.36363636363636365
+    },
+    {
+        "text-index": 43,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 0,
+            "sample_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.6055512754639896,
+        "water-fast-ber": 0.65
+    },
+    {
+        "text-index": 44,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 0,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.464101615137755,
+        "water-fast-ber": 0.5
+    },
+    {
+        "text-index": 45,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 0,
+            "sample_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.5714285714285714
+    },
+    {
+        "text-index": 46,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.3888888888888889
+    },
+    {
+        "text-index": 47,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 3.6380343755449944,
+        "water-fast-ber": 0.53125
+    },
+    {
+        "text-index": 48,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 1,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.42857142857142855
+    },
+    {
+        "text-index": 49,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 25,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 4.2,
+        "water-fast-ber": 0.78125
+    },
+    {
+        "text-index": 50,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 7,
+            "sample_err_cnt": 11,
+            "sample_cnt": 25
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.6457513110645903,
+        "water-fast-ber": 0.34375
+    },
+    {
+        "text-index": 51,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 18,
+            "sample_err_cnt": 0,
+            "sample_cnt": 7
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 2.8284271247461903,
+        "water-fast-ber": 0.7142857142857143
+    },
+    {
+        "text-index": 52,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 7,
+            "sample_err_cnt": 8,
+            "sample_cnt": 18
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 2.6457513110645903,
+        "water-fast-ber": 0.4
+    },
+    {
+        "text-index": 53,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 8,
+            "sample_err_cnt": 0,
+            "sample_cnt": 7
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 2.82842712474619,
+        "water-fast-ber": 0.5
+    },
+    {
+        "text-index": 54,
+        "sentence-length": 7,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 20,
+            "sample_err_cnt": 0,
+            "sample_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.1304951684997055,
+        "water-fast-ber": 0.75
+    },
+    {
+        "text-index": 55,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 6,
+            "sample_cnt": 20
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 2.4961508830135313,
+        "water-fast-ber": 0.7
+    },
+    {
+        "text-index": 56,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 19,
+            "sample_err_cnt": 2,
+            "sample_cnt": 13
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 4.358898943540673,
+        "water-fast-ber": 0.59375
+    },
+    {
+        "text-index": 57,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 23,
+            "sample_err_cnt": 0,
+            "sample_cnt": 19
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.9617738670844207,
+        "water-fast-ber": 0.6944444444444444
+    },
+    {
+        "text-index": 58,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 4,
+            "sample_cnt": 23
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.4
+    },
+    {
+        "text-index": 59,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 20,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 4.47213595499958,
+        "water-fast-ber": 0.55
+    },
+    {
+        "text-index": 60,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 20,
+            "sample_err_cnt": 0,
+            "sample_cnt": 20
+        },
+        "error-cnt": 2,
+        "cnt": 6,
+        "water-fast-z-score": 3.1304951684997055,
+        "water-fast-ber": 0.8333333333333334
+    },
+    {
+        "text-index": 61,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 4,
+            "sample_err_cnt": 8,
+            "sample_cnt": 20
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 2.0,
+        "water-fast-ber": 0.375
+    },
+    {
+        "text-index": 62,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 0,
+            "sample_cnt": 4
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.45
+    },
+    {
+        "text-index": 63,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [],
+            [],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.162277660168379,
+        "water-fast-ber": 0.5416666666666666
+    },
+    {
+        "text-index": 64,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 20,
+            "sample_err_cnt": 0,
+            "sample_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 4.47213595499958,
+        "water-fast-ber": 0.525
+    },
+    {
+        "text-index": 65,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 25,
+            "sample_err_cnt": 0,
+            "sample_cnt": 20
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.4,
+        "water-fast-ber": 0.78125
+    },
+    {
+        "text-index": 66,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 9,
+            "sample_err_cnt": 6,
+            "sample_cnt": 25
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.0,
+        "water-fast-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 67,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 0,
+            "sample_cnt": 9
+        },
+        "error-cnt": 2,
+        "cnt": 6,
+        "water-fast-z-score": 1.8973665961010275,
+        "water-fast-ber": 0.6875
+    },
+    {
+        "text-index": 68,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 6,
+            "sample_err_cnt": 2,
+            "sample_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.4494897427831783,
+        "water-fast-ber": 0.375
+    },
+    {
+        "text-index": 69,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 6
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.1529631254723287,
+        "water-fast-ber": 0.5833333333333334
+    },
+    {
+        "text-index": 70,
+        "sentence-length": 14,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 43,
+            "sample_err_cnt": 3,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 6.252441383636792,
+        "water-fast-ber": 0.7857142857142857
+    },
+    {
+        "text-index": 71,
+        "sentence-length": 15,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 4,
+            "sample_cnt": 43
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 4.123105625617661,
+        "water-fast-ber": 0.4
+    },
+    {
+        "text-index": 72,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 4.123105625617661,
+        "water-fast-ber": 0.7083333333333334
+    },
+    {
+        "text-index": 73,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 3.1529631254723287,
+        "water-fast-ber": 0.5277777777777778
+    },
+    {
+        "text-index": 74,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 24,
+            "sample_err_cnt": 4,
+            "sample_cnt": 17
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 4.4907311951024935,
+        "water-fast-ber": 0.75
+    },
+    {
+        "text-index": 75,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 8,
+            "sample_err_cnt": 10,
+            "sample_cnt": 24
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 2.82842712474619,
+        "water-fast-ber": 0.28125
+    },
+    {
+        "text-index": 76,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 0,
+            "sample_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.3166247903554,
+        "water-fast-ber": 0.4
+    },
+    {
+        "text-index": 77,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 21,
+            "sample_err_cnt": 0,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 4.58257569495584,
+        "water-fast-ber": 0.65625
+    },
+    {
+        "text-index": 78,
+        "sentence-length": 12,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 19,
+            "sample_err_cnt": 0,
+            "sample_cnt": 21
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 4.358898943540673,
+        "water-fast-ber": 0.4166666666666667
+    },
+    {
+        "text-index": 79,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 0,
+            "sample_cnt": 19
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.162277660168379,
+        "water-fast-ber": 0.5
+    },
+    {
+        "text-index": 80,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 10,
+            "sample_err_cnt": 0,
+            "sample_cnt": 10
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.162277660168379,
+        "water-fast-ber": 0.40625
+    },
+    {
+        "text-index": 81,
+        "sentence-length": 4,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 12,
+            "sample_err_cnt": 0,
+            "sample_cnt": 10
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 2.886751345948129,
+        "water-fast-ber": 0.75
+    },
+    {
+        "text-index": 82,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 19,
+            "sample_err_cnt": 1,
+            "sample_cnt": 12
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 3.4412360080584263,
+        "water-fast-ber": 0.7916666666666666
+    },
+    {
+        "text-index": 83,
+        "sentence-length": 13,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 24,
+            "sample_err_cnt": 2,
+            "sample_cnt": 19
+        },
+        "error-cnt": 0,
+        "cnt": 3,
+        "water-fast-z-score": 4.898979485566357,
+        "water-fast-ber": 0.5384615384615384
+    },
+    {
+        "text-index": 84,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 4,
+            "sentence_cnt": 27,
+            "sample_err_cnt": 0,
+            "sample_cnt": 24
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.65655170486763,
+        "water-fast-ber": 0.7
+    },
+    {
+        "text-index": 85,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 8,
+            "sample_err_cnt": 12,
+            "sample_cnt": 27
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 2.82842712474619,
+        "water-fast-ber": 0.28125
+    },
+    {
+        "text-index": 86,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 8
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.123105625617661,
+        "water-fast-ber": 0.53125
+    },
+    {
+        "text-index": 87,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 1,
+            "sentence_cnt": 22,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 1,
+        "cnt": 5,
+        "water-fast-z-score": 4.264014327112209,
+        "water-fast-ber": 0.6875
+    },
+    {
+        "text-index": 88,
+        "sentence-length": 3,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 2,
+            "sentence_cnt": 11,
+            "sample_err_cnt": 1,
+            "sample_cnt": 22
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 2.1105794120443453,
+        "water-fast-ber": 0.9166666666666666
+    },
+    {
+        "text-index": 89,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 3,
+            "sample_cnt": 11
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.5
+    },
+    {
+        "text-index": 90,
+        "sentence-length": 10,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 15,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 4,
+        "water-fast-z-score": 3.8729833462074166,
+        "water-fast-ber": 0.45
+    },
+    {
+        "text-index": 91,
+        "sentence-length": 15,
+        "water-fast-embed-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 24,
+            "sample_err_cnt": 0,
+            "sample_cnt": 15
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.898979485566357,
+        "water-fast-ber": 0.45
+    },
+    {
+        "text-index": 92,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 6,
+            "sample_err_cnt": 0,
+            "sample_cnt": 24
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 2.4494897427831783,
+        "water-fast-ber": 0.35
+    },
+    {
+        "text-index": 93,
+        "sentence-length": 8,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 9,
+            "sentence_cnt": 22,
+            "sample_err_cnt": 0,
+            "sample_cnt": 6
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 0.8528028654224417,
+        "water-fast-ber": 0.78125
+    },
+    {
+        "text-index": 94,
+        "sentence-length": 5,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 5,
+            "sample_err_cnt": 10,
+            "sample_cnt": 22
+        },
+        "error-cnt": 0,
+        "cnt": 2,
+        "water-fast-z-score": 2.23606797749979,
+        "water-fast-ber": 0.35
+    },
+    {
+        "text-index": 95,
+        "sentence-length": 14,
+        "water-fast-embed-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1
+            ],
+            [],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 17,
+            "sample_err_cnt": 0,
+            "sample_cnt": 5
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.123105625617661,
+        "water-fast-ber": 0.375
+    },
+    {
+        "text-index": 96,
+        "sentence-length": 6,
+        "water-fast-embed-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 3,
+            "sentence_cnt": 18,
+            "sample_err_cnt": 0,
+            "sample_cnt": 17
+        },
+        "error-cnt": 2,
+        "cnt": 6,
+        "water-fast-z-score": 2.8284271247461903,
+        "water-fast-ber": 0.7916666666666666
+    },
+    {
+        "text-index": 97,
+        "sentence-length": 16,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [],
+            [],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1
+            ]
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 20,
+            "sample_err_cnt": 11,
+            "sample_cnt": 18
+        },
+        "error-cnt": 0,
+        "cnt": 1,
+        "water-fast-z-score": 4.47213595499958,
+        "water-fast-ber": 0.390625
+    },
+    {
+        "text-index": 98,
+        "sentence-length": 15,
+        "water-fast-embed-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 20,
+            "sample_err_cnt": 0,
+            "sample_cnt": 20
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 4.47213595499958,
+        "water-fast-ber": 0.38333333333333336
+    },
+    {
+        "text-index": 99,
+        "sentence-length": 9,
+        "water-fast-embed-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            []
+        ],
+        "water-fast-extracted-message": [
+            [],
+            [
+                1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1
+            ],
+            [],
+            [
+                1,
+                0,
+                1
+            ],
+            []
+        ],
+        "bit-error-agg": {
+            "sentence_err_cnt": 0,
+            "sentence_cnt": 13,
+            "sample_err_cnt": 0,
+            "sample_cnt": 20
+        },
+        "error-cnt": 0,
+        "cnt": 0,
+        "water-fast-z-score": 3.6055512754639896,
+        "water-fast-ber": 0.4444444444444444
+    }
+]
